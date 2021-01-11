@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="icon_pack" translatable="false">
+        <item>acryl_catima</item>
+        <item>acryl_subz</item>
+    </string-array>
+</resources>

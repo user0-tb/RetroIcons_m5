@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="de.moooon.acrylicons">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MondsternAcrylIcons">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/Theme.MondsternAcrylIcons.NoActionBar">
+
+            <!--
+         Multiple intents are required for different launchers to recognize
+            the icon pack as theme and as option to pick icons
+            -->
+            <!-- Intent for Nova -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+
+                <action android:name="com.novalauncher.THEME" />
+            </intent-filter> <!-- Intent for Apex -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="com.anddoes.launcher.THEME" />
+            </intent-filter> <!-- Intent for Action -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="com.tsf.shell.themes" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter> <!-- Intents for Holo -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="org.adw.launcher.THEMES" />
+                <action android:name="mobi.bbase.ahome.THEME" />
+                <action android:name="com.rogro.GDE.THEME.1" />
+                <action android:name="com.android.dxtop.launcher.THEME" />
+
+                <category android:name="com.fede.launcher.THEME_ICONPACK" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter> <!-- Intents for adw -->
+            <intent-filter>
+                <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
+                <action android:name="mobi.bbase.ahome.THEME" />
+                <action android:name="com.rogro.GDE.THEME.1" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter> <!-- Intent for Atom -->
+            <intent-filter>
+                <action android:name="com.dlto.atom.launcher.THEME" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

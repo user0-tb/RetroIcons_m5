@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+
+    <!-- Catima -->
+    <item
+        component="ComponentInfo{me.hackerchick.catima/protect.card_locker.MainActivity}"
+        drawable="acryl_catima" />
+
+    <!-- Subz -->
+    <item
+        component="ComponentInfo{com.flasskamp.subz/com.flasskamp.subz.MainActivity}"
+        drawable="acryl_subz"/>
+</resources>

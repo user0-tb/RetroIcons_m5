@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="icon_pack" translatable="false">
+        <item>acryl_1list</item>
+        <item>acryl_9p</item>
+        <item>acryl_aegis</item>
+        <item>acryl_aicamera</item>
+        <item>acryl_androidversiona</item>
+        <item>acryl_anonaddy</item>
+        <item>acryl_anothernotes</item>
+        <item>acryl_appsmonitor</item>
+        <item>acryl_archpackages</item>
+        <item>acryl_audioserve</item>
+        <item>acryl_babydots</item>
+        <item>acryl_balancetheball</item>
         <item>acryl_catima</item>
         <item>acryl_subz</item>
     </string-array>

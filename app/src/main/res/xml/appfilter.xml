@@ -2,10 +2,70 @@
 <resources>
     <version>1</version>
 
+    <!-- 1List -->
+    <item 
+        component="ComponentInfo{com.lolo.io.onelist/com.lolo.io.onelist.MainActivity}" 
+        drawable="1list"/>
+    
+    <!-- 9P -->
+    <item 
+        component="ComponentInfo{se.tube42.p9.android/se.tube42.p9.android.MainActivity}" 
+        drawable="9p"/>
+
+    <!-- Aegis -->
+    <item 
+        component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}" 
+        drawable="aegis"/>
+
+    <!-- AiCamera -->
+    <item 
+        component="ComponentInfo{com.lun.chin.aicamera/com.lun.chin.aicamera.CameraActivity}" 
+        drawable="aicamera"/>
+
+    <!-- Android-Version -->
+    <item 
+        component="ComponentInfo{com.github.mueller_ma.viewandroidversion/com.github.mueller_ma.viewandroidversion.MainActivity}" 
+        drawable="android-version"/>
+
+    <!-- AnonAddy -->
+    <item 
+        component="ComponentInfo{host.stjin.anonaddy/host.stjin.anonaddy.ui.SplashActivity}" 
+        drawable="anonaddy"/>
+    
+    <!-- AppsMonitor -->
+    <item 
+        component="ComponentInfo{timeline.lizimumu.com.t/timeline.lizimumu.com.t.ui.SplashActivity}" 
+        drawable="appsmonitor"/>
+    
+    <!-- Arch packages -->
+    <item 
+        component="ComponentInfo{com.rascarlo.arch.packages/com.rascarlo.arch.packages.MainActivity}" 
+        drawable="archpackages"/>
+    
+    <!-- audioserve -->
+    <item 
+        component="ComponentInfo{eu.zderadicka.audioserve/eu.zderadicka.audioserve.MainActivity}" 
+        drawable="audioserve"/>
+    
+    <!-- Baby Dots -->
+    <item 
+        component="ComponentInfo{com.serwylo.babydots/com.serwylo.babydots.MainActivity}" 
+        drawable="babydots"/>
+    
+    <!-- Balance the Ball -->
+    <item 
+        component="ComponentInfo{com.jeffliu.balancetheball/com.jeffliu.balancetheball.GameActivity}" 
+        drawable="balancetheball"/>
+    
     <!-- Catima -->
     <item
         component="ComponentInfo{me.hackerchick.catima/protect.card_locker.MainActivity}"
         drawable="acryl_catima" />
+
+    <!-- Notes -->
+    <item 
+        component="ComponentInfo{com.maltaisn.notes.sync/com.maltaisn.notes.ui.main.MainActivity}" 
+        drawable="notes"/>
 
     <!-- Subz -->
     <item

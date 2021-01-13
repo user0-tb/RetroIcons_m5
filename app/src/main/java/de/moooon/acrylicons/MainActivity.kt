@@ -1,48 +1,47 @@
 package de.moooon.acrylicons
 
+import android.content.res.Resources
 import android.os.Bundle
-import android.view.View
+import android.widget.GridLayout
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import java.lang.reflect.Field
-import java.util.concurrent.ThreadLocalRandom
 
 
 class MainActivity : AppCompatActivity() {
 
     var drawables: Array<Field> = R.drawable::class.java.fields
-    var lastIcon: String = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         setSupportActionBar(findViewById(R.id.toolbar))
 
-        showRandomIcon(null)
-    }
+        val layout = findViewById<GridLayout>(R.id.main_layout)
 
-    override fun onResume() {
-        super.onResume()
+        var row = 0
+        var column = 0
 
-        showRandomIcon(null)
-    }
+        for (drawable in drawables) {
+            if (drawable.name.startsWith("acryl_")) {
+                val imageView = ImageView(this)
+                imageView.setImageResource(drawable.getInt(null))
 
-    fun showRandomIcon(unused: View?) {
-        var number = ThreadLocalRandom.current().nextInt(0, drawables.size)
+                var layoutParams = GridLayout.LayoutParams(
+                        GridLayout.spec(row, 1),
+                        GridLayout.spec(column, 1))
 
-        if (drawables[number].name.startsWith("acryl_")) {
-            if (lastIcon == drawables[number].name) {
-                showRandomIcon(null)
-            } else {
-                lastIcon = drawables[number].name
-                findViewById<ImageView>(R.id.random_image).setImageDrawable(
-                    resources.getDrawable(
-                        drawables[number].getInt(null)
-                    )
-                )
+                layoutParams.width = Resources.getSystem().displayMetrics.widthPixels / 2
+                layoutParams.height = Resources.getSystem().displayMetrics.widthPixels / 2
+
+                layout.addView(imageView, layoutParams)
+
+                column += 1
+                if (column == 2) {
+                    column = 0
+                    row += 1
+                }
             }
-        } else {
-            showRandomIcon(null)
         }
     }
 }

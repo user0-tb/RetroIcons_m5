@@ -20,21 +20,16 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
-    <LinearLayout
+    <ScrollView
         android:layout_marginTop="?android:attr/actionBarSize"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical">
-        <TextView
+        android:layout_height="wrap_content">
+        <GridLayout
+            android:id="@+id/main_layout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/main_text" />
-
-        <ImageView
-            android:id="@+id/random_image"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:onClick="showRandomIcon" />
-    </LinearLayout>
+            android:orientation="horizontal">
+        </GridLayout>
+    </ScrollView>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

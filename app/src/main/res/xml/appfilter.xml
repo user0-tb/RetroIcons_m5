@@ -65,47 +65,47 @@
     <!-- baresip -->
     <item 
         component="ComponentInfo{com.tutpro.baresip/com.tutpro.baresip.MainActivity}" 
-        drawable="baresip"/>
+        drawable="acryl_baresip"/>
 
     <!-- Binary Eye -->
     <item 
         component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}" 
-        drawable="binaryeye"/>
+        drawable="acryl_binaryeye"/>
 
     <!-- Block Puzzle -->
     <item 
         component="ComponentInfo{de.mwvb.blockpuzzle/de.mwvb.blockpuzzle.StartScreenActivity}" 
-        drawable="blockpuzzle"/>
+        drawable="acryl_blockpuzzle"/>
 
-    <!-- BLW -->
+    <!-- Bitcoin Lightning Wallet -->
     <item 
         component="ComponentInfo{com.lightning.walletapp/com.lightning.walletapp.MainActivity}" 
-        drawable="blw"/>
+        drawable="acryl_bitcoinpluslightningwallet"/>
 
     <!-- Book Reader -->
     <item 
         component="ComponentInfo{com.github.axet.bookreader/com.github.axet.bookreader.activities.MainActivity}" 
-        drawable="bookreader"/>
+        drawable="acryl_bookreader"/>
 
     <!-- Briar -->
     <item 
         component="ComponentInfo{org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity}" 
-        drawable="briar"/>
+        drawable="acryl_briar"/>
 
     <!-- Calculator++ -->
     <item 
         component="ComponentInfo{org.solovyev.android.calculator/org.solovyev.android.calculator.CalculatorActivity}" 
-        drawable="calculator"/>
+        drawable="acryl_calculator"/>
 
     <!-- Call Recorder -->
     <item 
         component="ComponentInfo{com.github.axet.callrecorder/com.github.axet.callrecorder.activities.MainActivity}" 
-        drawable="callrecorder"/>
+        drawable="acryl_callrecorder"/>
 
     <!-- campfire -->
     <item 
         component="ComponentInfo{godau.fynn.bandcampdirect/godau.fynn.bandcampdirect.activity.FavoritesActivity}" 
-        drawable="campfire"/>        
+        drawable="acryl_campfire"/>        
 
     <!-- Catima -->
     <item
@@ -115,117 +115,117 @@
     <!-- Chubby Click -->
     <item 
         component="ComponentInfo{agrigolo.chubbyclick/agrigolo.chubbyclick.MainActivity}" 
-        drawable="chubbyclick"/>
+        drawable="acryl_chubbyclick"/>
 
     <!-- Clover -->
     <item 
         component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" 
-        drawable="clover"/>
+        drawable="acryl_clover"/>
 
     <!-- Collabora Office -->
     <item 
         component="ComponentInfo{com.collabora.libreoffice/org.libreoffice.androidapp.ui.LibreOfficeUIActivity}" 
-        drawable="collaboraoffice"/>
+        drawable="acryl_collaboraoffice"/>
 
     <!-- Contact Diary -->
     <item 
         component="ComponentInfo{com.apozas.contactdiary/com.apozas.contactdiary.MainActivity}" 
-        drawable="kontakttagebuch"/>
+        drawable="acryl_contactdiary"/>
 
     <!-- Cryptolitycs -->
     <item 
         component="ComponentInfo{com.fproject.cryptolitycs/com.fproject.cryptolitycs.watchlist.WatchListActivity}" 
-        drawable="cryptolitycs"/>
+        drawable="acryl_cryptolitycs"/>
 
     <!-- Currencies -->
     <item 
         component="ComponentInfo{de.salomax.currencies/de.salomax.currencies.view.main.MainActivity}" 
-        drawable="currencies"/>
+        drawable="acryl_currencies"/>
 
     <!-- CyberWOW -->
     <item 
         component="ComponentInfo{org.wownero.cyberwow/org.wownero.cyberwow.MainActivity}" 
-        drawable="cyberwow"/>
+        drawable="acryl_cyberwow"/>
     
     <!-- Daily Dozen -->
     <item 
         component="ComponentInfo{org.nutritionfacts.dailydozen/org.nutritionfacts.dailydozen.activity.MainActivity}" 
-        drawable="dailydozen"/>
+        drawable="acryl_dailydozen"/>
 
     <!-- dandelion* -->
     <item 
         component="ComponentInfo{com.github.dfa.diaspora_android/com.github.dfa.diaspora_android.activity.MainActivity}" 
-        drawable="dandelion"/>
+        drawable="acryl_dandelion"/>
 
     <!-- DAPNET -->
     <item 
         component="ComponentInfo{de.hampager.dapnetmobile/de.hampager.dapnetmobile.activites.SplashActivity}" 
-        drawable="dapnet"/>
+        drawable="acryl_dapnet"/>
 
     <!-- Der Die Das -->
     <item 
         component="ComponentInfo{com.spitslide.derdiedas/com.spitslide.derdiedas.ui.MainActivity}" 
-        drawable="derdiedas"/>
+        drawable="acryl_derdiedas"/>
 
     <!-- DeuFeiTage -->
     <item 
         component="ComponentInfo{de.micmun.android.deufeitage/de.micmun.android.deufeitage.MainActivity}" 
-        drawable="deufeitage"/>
+        drawable="acryl_deufeitage"/>
 
     <!-- Diab -->
     <item 
         component="ComponentInfo{it.diab/it.diab.MainActivity}" 
-        drawable="diab"/>
+        drawable="acryl_diab"/>
 
     <!-- Diary -->
     <item 
         component="ComponentInfo{org.billthefarmer.diary/org.billthefarmer.diary.Diary}" 
-        drawable="tagebuch"/>        
+        drawable="acryl_diary"/>        
 
     <!-- DMS Explorer -->
     <item 
         component="ComponentInfo{net.mm2d.dmsexplorer/net.mm2d.dmsexplorer.StartActivity}" 
-        drawable="dmsexplorer"/>
+        drawable="acryl_dmsexplorer"/>
 
     <!-- EasyNotes -->
     <item 
         component="ComponentInfo{com.r57zone.easynotes/com.r57zone.easynotes.EasyNotes}" 
-        drawable="easynotes"/>
+        drawable="acryl_easynotes"/>
 
     <!-- Element (Riot.im) -->
     <item 
         component="ComponentInfo{im.vector.app/im.vector.app.features.Alias}" 
-        drawable="elementriot.im"/>
+        drawable="acryl_element"/>
     
     <!-- Emerald Dialer -->
     <item 
         component="ComponentInfo{ru.henridellal.dialer/ru.henridellal.dialer.DialerActivity}" 
-        drawable="emeralddialer"/>
+        drawable="acryl_emeralddialer"/>
 
     <!-- EnRecipes -->
     <item 
         component="ComponentInfo{com.vishnuraghav.enrecipes/com.tns.NativeScriptActivity}" 
-        drawable="enrecipes"/>
+        drawable="acryl_enrecipes"/>
 
     <!-- EP RSS Reader -->
     <item 
         component="ComponentInfo{cz.pds.eprssreader/cz.pds.eprssreader.activities.MainActivity}" 
-        drawable="eprssreader"/>
+        drawable="acryl_eprssreader"/>
     
     <!-- Escapepod -->
     <item 
         component="ComponentInfo{org.y20k.escapepod/org.y20k.escapepod.MainActivity}" 
-        drawable="escapepod"/>
+        drawable="acryl_escapepod"/>
 
     <!-- Etar -->
     <item 
         component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" 
-        drawable="etar"/>
+        drawable="acryl_etar"/>
 
     <!-- EteSync -->
     <item 
         component="ComponentInfo{com.etesync.syncadapter/com.etesync.syncadapter.ui.AccountsActivity}" 
-        drawable="etesync"/>
+        drawable="acryl_etesync"/>
  
     <!-- Subz -->
     <item

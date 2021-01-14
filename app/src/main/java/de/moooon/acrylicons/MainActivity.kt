@@ -22,6 +22,8 @@ class MainActivity : AppCompatActivity() {
         var row = 0
         var column = 0
 
+        drawables.sortBy { it.name }
+
         for (drawable in drawables) {
             if (drawable.name.startsWith("acryl_")) {
                 val imageView = ImageView(this)

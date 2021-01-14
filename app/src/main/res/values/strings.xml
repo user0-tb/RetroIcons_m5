@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Mondstern Acryl Icons</string>
-    <string name="title_activity_main">Mondstern Acryl Icons</string>
-    <string name="main_text">Tap the icon to see another random icon. Enable this icon pack in your favourite launcher.</string>
+    <string name="app_name">Mondstern Acrylic Icons</string>
+    <string name="title_activity_main">Mondstern Acrylic Icons</string>
 </resources>

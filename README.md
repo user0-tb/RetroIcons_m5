@@ -1,6 +1,6 @@
-# Mondstern Acryl Icons
+# Mondstern Acrylic Icons
 
-A very simple icon pack of Mondstern's Acryl icons.
+A very simple icon pack of Mondstern's Acrylic icons.
 
 Feel free to use this app code to make your own icon packs.
 

@@ -31,6 +31,11 @@
     <item 
         component="ComponentInfo{host.stjin.anonaddy/host.stjin.anonaddy.ui.SplashActivity}" 
         drawable="acryl_anonaddy"/>
+
+    <!-- Another Notes -->
+    <item 
+        component="ComponentInfo{com.maltaisn.notes.sync/com.maltaisn.notes.ui.main.MainActivity}" 
+        drawable="acryl_notes"/>        
     
     <!-- AppsMonitor -->
     <item 
@@ -57,16 +62,171 @@
         component="ComponentInfo{com.jeffliu.balancetheball/com.jeffliu.balancetheball.GameActivity}" 
         drawable="acryl_balancetheball"/>
     
+    <!-- baresip -->
+    <item 
+        component="ComponentInfo{com.tutpro.baresip/com.tutpro.baresip.MainActivity}" 
+        drawable="baresip"/>
+
+    <!-- Binary Eye -->
+    <item 
+        component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}" 
+        drawable="binaryeye"/>
+
+    <!-- Block Puzzle -->
+    <item 
+        component="ComponentInfo{de.mwvb.blockpuzzle/de.mwvb.blockpuzzle.StartScreenActivity}" 
+        drawable="blockpuzzle"/>
+
+    <!-- BLW -->
+    <item 
+        component="ComponentInfo{com.lightning.walletapp/com.lightning.walletapp.MainActivity}" 
+        drawable="blw"/>
+
+    <!-- Book Reader -->
+    <item 
+        component="ComponentInfo{com.github.axet.bookreader/com.github.axet.bookreader.activities.MainActivity}" 
+        drawable="bookreader"/>
+
+    <!-- Briar -->
+    <item 
+        component="ComponentInfo{org.briarproject.briar.android/org.briarproject.briar.android.splash.SplashScreenActivity}" 
+        drawable="briar"/>
+
+    <!-- Calculator++ -->
+    <item 
+        component="ComponentInfo{org.solovyev.android.calculator/org.solovyev.android.calculator.CalculatorActivity}" 
+        drawable="calculator"/>
+
+    <!-- Call Recorder -->
+    <item 
+        component="ComponentInfo{com.github.axet.callrecorder/com.github.axet.callrecorder.activities.MainActivity}" 
+        drawable="callrecorder"/>
+
+    <!-- campfire -->
+    <item 
+        component="ComponentInfo{godau.fynn.bandcampdirect/godau.fynn.bandcampdirect.activity.FavoritesActivity}" 
+        drawable="campfire"/>        
+
     <!-- Catima -->
     <item
         component="ComponentInfo{me.hackerchick.catima/protect.card_locker.MainActivity}"
         drawable="acryl_catima" />
 
-    <!-- Notes -->
+    <!-- Chubby Click -->
     <item 
-        component="ComponentInfo{com.maltaisn.notes.sync/com.maltaisn.notes.ui.main.MainActivity}" 
-        drawable="acryl_notes"/>
+        component="ComponentInfo{agrigolo.chubbyclick/agrigolo.chubbyclick.MainActivity}" 
+        drawable="chubbyclick"/>
 
+    <!-- Clover -->
+    <item 
+        component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" 
+        drawable="clover"/>
+
+    <!-- Collabora Office -->
+    <item 
+        component="ComponentInfo{com.collabora.libreoffice/org.libreoffice.androidapp.ui.LibreOfficeUIActivity}" 
+        drawable="collaboraoffice"/>
+
+    <!-- Contact Diary -->
+    <item 
+        component="ComponentInfo{com.apozas.contactdiary/com.apozas.contactdiary.MainActivity}" 
+        drawable="kontakttagebuch"/>
+
+    <!-- Cryptolitycs -->
+    <item 
+        component="ComponentInfo{com.fproject.cryptolitycs/com.fproject.cryptolitycs.watchlist.WatchListActivity}" 
+        drawable="cryptolitycs"/>
+
+    <!-- Currencies -->
+    <item 
+        component="ComponentInfo{de.salomax.currencies/de.salomax.currencies.view.main.MainActivity}" 
+        drawable="currencies"/>
+
+    <!-- CyberWOW -->
+    <item 
+        component="ComponentInfo{org.wownero.cyberwow/org.wownero.cyberwow.MainActivity}" 
+        drawable="cyberwow"/>
+    
+    <!-- Daily Dozen -->
+    <item 
+        component="ComponentInfo{org.nutritionfacts.dailydozen/org.nutritionfacts.dailydozen.activity.MainActivity}" 
+        drawable="dailydozen"/>
+
+    <!-- dandelion* -->
+    <item 
+        component="ComponentInfo{com.github.dfa.diaspora_android/com.github.dfa.diaspora_android.activity.MainActivity}" 
+        drawable="dandelion"/>
+
+    <!-- DAPNET -->
+    <item 
+        component="ComponentInfo{de.hampager.dapnetmobile/de.hampager.dapnetmobile.activites.SplashActivity}" 
+        drawable="dapnet"/>
+
+    <!-- Der Die Das -->
+    <item 
+        component="ComponentInfo{com.spitslide.derdiedas/com.spitslide.derdiedas.ui.MainActivity}" 
+        drawable="derdiedas"/>
+
+    <!-- DeuFeiTage -->
+    <item 
+        component="ComponentInfo{de.micmun.android.deufeitage/de.micmun.android.deufeitage.MainActivity}" 
+        drawable="deufeitage"/>
+
+    <!-- Diab -->
+    <item 
+        component="ComponentInfo{it.diab/it.diab.MainActivity}" 
+        drawable="diab"/>
+
+    <!-- Diary -->
+    <item 
+        component="ComponentInfo{org.billthefarmer.diary/org.billthefarmer.diary.Diary}" 
+        drawable="tagebuch"/>        
+
+    <!-- DMS Explorer -->
+    <item 
+        component="ComponentInfo{net.mm2d.dmsexplorer/net.mm2d.dmsexplorer.StartActivity}" 
+        drawable="dmsexplorer"/>
+
+    <!-- EasyNotes -->
+    <item 
+        component="ComponentInfo{com.r57zone.easynotes/com.r57zone.easynotes.EasyNotes}" 
+        drawable="easynotes"/>
+
+    <!-- Element (Riot.im) -->
+    <item 
+        component="ComponentInfo{im.vector.app/im.vector.app.features.Alias}" 
+        drawable="elementriot.im"/>
+    
+    <!-- Emerald Dialer -->
+    <item 
+        component="ComponentInfo{ru.henridellal.dialer/ru.henridellal.dialer.DialerActivity}" 
+        drawable="emeralddialer"/>
+
+    <!-- EnRecipes -->
+    <item 
+        component="ComponentInfo{com.vishnuraghav.enrecipes/com.tns.NativeScriptActivity}" 
+        drawable="enrecipes"/>
+
+    <!-- EP RSS Reader -->
+    <item 
+        component="ComponentInfo{cz.pds.eprssreader/cz.pds.eprssreader.activities.MainActivity}" 
+        drawable="eprssreader"/>
+    
+    <!-- Escapepod -->
+    <item 
+        component="ComponentInfo{org.y20k.escapepod/org.y20k.escapepod.MainActivity}" 
+        drawable="escapepod"/>
+
+    <!-- Etar -->
+    <item 
+        component="ComponentInfo{ws.xsoh.etar/com.android.calendar.AllInOneActivity}" 
+        drawable="etar"/>
+
+    <!-- EteSync -->
+    <item 
+        component="ComponentInfo{com.etesync.syncadapter/com.etesync.syncadapter.ui.AccountsActivity}" 
+        drawable="etesync"/>
+ 
     <!-- Subz -->
     <item
         component="ComponentInfo{com.flasskamp.subz/com.flasskamp.subz.MainActivity}"

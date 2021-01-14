@@ -25,7 +25,7 @@
     <!-- Android-Version -->
     <item 
         component="ComponentInfo{com.github.mueller_ma.viewandroidversion/com.github.mueller_ma.viewandroidversion.MainActivity}" 
-        drawable="acryl_android-version"/>
+        drawable="acryl_androidversion"/>
 
     <!-- AnonAddy -->
     <item 

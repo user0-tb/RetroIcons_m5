@@ -35,7 +35,7 @@
     <!-- Another Notes -->
     <item 
         component="ComponentInfo{com.maltaisn.notes.sync/com.maltaisn.notes.ui.main.MainActivity}" 
-        drawable="acryl_notes"/>        
+        drawable="acryl_anothernotes"/>        
     
     <!-- AppsMonitor -->
     <item 
@@ -95,7 +95,7 @@
     <!-- Calculator++ -->
     <item 
         component="ComponentInfo{org.solovyev.android.calculator/org.solovyev.android.calculator.CalculatorActivity}" 
-        drawable="acryl_calculator"/>
+        drawable="acryl_calculatorplusplus"/>
 
     <!-- Call Recorder -->
     <item 
@@ -152,10 +152,10 @@
         component="ComponentInfo{org.nutritionfacts.dailydozen/org.nutritionfacts.dailydozen.activity.MainActivity}" 
         drawable="acryl_dailydozen"/>
 
-    <!-- dandelion* -->
+    <!-- dandelior* -->
     <item 
         component="ComponentInfo{com.github.dfa.diaspora_android/com.github.dfa.diaspora_android.activity.MainActivity}" 
-        drawable="acryl_dandelion"/>
+        drawable="acryl_dandelior"/>
 
     <!-- DAPNET -->
     <item 
@@ -200,7 +200,7 @@
     <!-- Emerald Dialer -->
     <item 
         component="ComponentInfo{ru.henridellal.dialer/ru.henridellal.dialer.DialerActivity}" 
-        drawable="acryl_emeralddialer"/>
+        drawable="acryl_emeraldialer"/>
 
     <!-- EnRecipes -->
     <item 

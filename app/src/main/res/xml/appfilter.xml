@@ -227,6 +227,246 @@
         component="ComponentInfo{com.etesync.syncadapter/com.etesync.syncadapter.ui.AccountsActivity}" 
         drawable="acryl_etesync"/>
  
+    <!-- F-Droid -->
+    <item 
+        component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" 
+        drawable="acryl_fdroid"/>
+
+    <!-- FairEmail -->
+    <item 
+        component="ComponentInfo{eu.faircode.email/eu.faircode.email.ActivityMain}" 
+        drawable="acryl_fairemail"/>
+    
+    <!-- Fedilab -->
+    <item 
+        component="ComponentInfo{fr.gouv.etalab.mastodon/app.fedilab.android.activities.MainActivity.Bubbles}" 
+        drawable="acryl_fedilab"/>
+    
+    <!-- Feeder -->
+    <item 
+        component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}" 
+        drawable="acryl_feeder"/>
+    
+    <!-- FiSSH -->
+    <item 
+        component="ComponentInfo{ro.ioanm.fissh/ro.ioanm.fissh.MainActivity}" 
+        drawable="acryl_fissh"/>
+    
+    <!-- FitoTrack -->
+    <item 
+        component="ComponentInfo{de.tadris.fitness/de.tadris.fitness.ui.LauncherActivity}" 
+        drawable="acryl_fitotrack"/>
+    
+    <!-- FlorisBoard -->
+    <item 
+        component="ComponentInfo{dev.patrickgold.florisboard/dev.patrickgold.florisboard.SettingsLauncherAlias}" 
+        drawable="acryl_florisboard"/>
+
+    <!-- Flym -->
+    <item 
+        component="ComponentInfo{net.frju.flym/net.frju.flym.ui.main.MainActivity}" 
+        drawable="acryl_flym"/>
+    
+    <!-- Forecastie -->
+    <item 
+        component="ComponentInfo{cz.martykan.forecastie/cz.martykan.forecastie.activities.SplashActivity}" 
+        drawable="acryl_forecastie"/>
+
+    <!-- ForRunners -->
+    <item 
+        component="ComponentInfo{net.khertan.forrunners/net.khertan.forrunners.MainActivity}" 
+        drawable="acryl_forrunners"/>
+    
+    <!-- Fyreplace -->
+    <item 
+        component="ComponentInfo{app.fyreplace.client/app.fyreplace.client.ui.presenters.MainActivity}" 
+        drawable="acryl_fyreplace"/>
+    
+    <!-- Gadgetbridge -->
+    <item 
+        component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.activities.ControlCenterv2}" 
+        drawable="acryl_gadgetbridge"/>
+    
+    <!-- GeoNotes -->
+    <item 
+        component="ComponentInfo{de.hauke_stieler.geonotes/de.hauke_stieler.geonotes.MainActivity}" 
+        drawable="acryl_geonotes"/>
+    
+    <!-- GitNex -->
+    <item 
+        component="ComponentInfo{org.mian.gitnex/org.mian.gitnex.activities.MainActivity}" 
+        drawable="acryl_gitnex"/>
+    
+    <!-- Green -->
+    <item 
+        component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.authentication.PinActivity}" 
+        drawable="acryl_greenbitcoinwallet"/>
+    
+    <!-- Home -->
+    <item 
+        component="ComponentInfo{io.github.domi04151309.home/io.github.domi04151309.home.activities.SplashActivity}" 
+        drawable="acryl_homeapp2"/>
+    
+    <!-- HomeBot -->
+    <item 
+        component="ComponentInfo{com.abast.homebot/com.abast.homebot.MainActivity}" 
+        drawable="acryl_homebot"/>
+    
+    <!-- Hourly Reminder -->
+    <item 
+        component="ComponentInfo{com.github.axet.hourlyreminder/com.github.axet.hourlyreminder.activities.MainActivity}" 
+        drawable="acryl_hourlyreminder"/>
+    
+    <!-- Hue -->
+    <item 
+        component="ComponentInfo{is.zi.huewidgets/is.zi.huewidgets.MainActivity}" 
+        drawable="acryl_huewidgets"/>
+    
+    <!-- Hypezig -->
+    <item 
+        component="ComponentInfo{com.kolloware.hypezigapp/com.kolloware.hypezigapp.ui.MainActivity}" 
+        drawable="acryl_hypezig"/>
+    
+    <!-- Joplin -->
+    <item 
+        component="ComponentInfo{net.cozic.joplin/net.cozic.joplin.MainActivity}" 
+        drawable="acryl_joplin"/>
+
+    <!-- KISS Launcher -->
+    <item 
+        component="ComponentInfo{fr.neamar.kiss/fr.neamar.kiss.MainActivity}" 
+        drawable="acryl_kisslauncher"/>
+    
+    <!-- Kodi -->
+    <item 
+        component="ComponentInfo{org.xbmc.kodi/org.xbmc.kodi.Splash}" 
+        drawable="acryl_kodi"/>
+    
+    <!-- Kontalk -->
+    <item 
+        component="ComponentInfo{org.kontalk/org.kontalk.ui.ConversationsActivity}" 
+        drawable="acryl_kontalk"/>
+    
+    <!-- Kore -->
+    <item 
+        component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.sections.remote.RemoteActivity}" 
+        drawable="acryl_kore"/>
+    
+    <!-- koyu.space -->
+    <item 
+        component="ComponentInfo{com.Sommerlichter.social/com.Sommerlichter.social.MainActivity}" 
+        drawable="acryl_koyuspace"/>
+    
+    <!-- KrautSchlüssel -->
+    <item 
+        component="ComponentInfo{space.kraut.schluessel/space.kraut.schluessel.ui.MainActivity}" 
+        drawable="acryl_krautschluessel"/>
+
+    <!-- Libre Home -->
+    <item 
+        component="ComponentInfo{com.krzysztofsroga.librehome/com.krzysztofsroga.librehome.ui.activities.BottomNavigationActivity}" 
+        drawable="acryl_librehome"/>
+    
+    <!-- Libre Ipsum -->
+    <item 
+        component="ComponentInfo{org.getdisconnected.libreipsum/org.getdisconnected.libreipsum.MainActivity}" 
+        drawable="acryl_libreipsum"/>
+    
+    <!-- LibreTrivia -->
+    <item 
+        component="ComponentInfo{io.github.trytonvanmeer.libretrivia/io.github.trytonvanmeer.libretrivia.activities.MainActivity}" 
+        drawable="acryl_libretrivia"/>
+    
+    <!-- Light Android Launcher -->
+    <item 
+        component="ComponentInfo{com.github.postapczuk.lalauncher/com.github.postapczuk.lalauncher.FavouriteAppsActivity}" 
+        drawable="acryl_lightandroidlauncher"/>
+    
+    <!-- log28 -->
+    <item 
+        component="ComponentInfo{com.log28/com.log28.MainActivity}" 
+        drawable="acryl_log28"/>
+
+    <!-- Loop Habit Tracker -->
+    <item 
+        component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" 
+        drawable="acryl_loophabittracker"/>        
+    
+    <!-- LRC Editor -->
+    <item 
+        component="ComponentInfo{com.cg.lrceditor/com.cg.lrceditor.HomePage}" 
+        drawable="acryl_lrceditor"/>
+    
+    <!-- Manyverse -->
+    <item 
+        component="ComponentInfo{se.manyver/se.manyver.MainActivity}" 
+        drawable="acryl_manyverse"/>
+    
+    <!-- Markor -->
+    <item 
+        component="ComponentInfo{net.gsantner.markor/net.gsantner.markor.activity.MainActivity}" 
+        drawable="acryl_markor"/>
+    
+    <!-- Mass Transfer -->
+    <item 
+        component="ComponentInfo{me.hexian000.masstransfer/me.hexian000.masstransfer.MainActivity}" 
+        drawable="acryl_masstransfer"/>
+    
+    <!-- MetaGer Suche -->
+    <item 
+        component="ComponentInfo{de.metager.metagerapp.fdroid/de.metager.metagerapp.MainActivity}" 
+        drawable="acryl_metagersuche"/>
+    
+    <!-- MIFARE Classic Tool -->
+    <item 
+        component="ComponentInfo{de.syss.MifareClassicTool/de.syss.MifareClassicTool.Activities.MainMenu}" 
+        drawable="acryl_mifareclassictool"/>
+    
+    <!-- miniVector -->
+    <item 
+        component="ComponentInfo{com.lavadip.miniVector/im.vector.activity.VectorLauncherActivity}" 
+        drawable="acryl_minivector"/>
+    
+    <!-- Mobilizon -->
+    <item 
+        component="ComponentInfo{app.fedilab.mobilizon/app.fedilab.mobilizon.MainActivity}" 
+        drawable="acryl_mobilizon"/>
+    
+    <!-- monerujo -->
+    <item 
+        component="ComponentInfo{com.m2049r.xmrwallet/com.m2049r.xmrwallet.MainActivity}" 
+        drawable="acryl_monerujo"/>
+    
+    <!-- Money Tracker -->
+    <item 
+        component="ComponentInfo{com.blogspot.e_kanivets.moneytracker/com.blogspot.e_kanivets.moneytracker.activity.record.MainActivity}" 
+        drawable="acryl_moneytracker"/>
+    
+    <!-- Monochromatic -->
+    <item 
+        component="ComponentInfo{uk.co.richyhbm.monochromatic/uk.co.richyhbm.monochromatic.Activities.MainActivity}" 
+        drawable="acryl_monochromatic"/>
+    
+    <!-- Morse -->
+    <item 
+        component="ComponentInfo{rocks.poopjournal.morse/rocks.poopjournal.morse.MainActivity}" 
+        drawable="acryl_morse"/>
+    
+    <!-- Movim -->
+    <item 
+        component="ComponentInfo{com.movim.movim/com.movim.movim.MainActivity}" 
+        drawable="acryl_movim"/>
+    
+    <!-- NewPipe -->
+    <item 
+        component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.MainActivity}" 
+        drawable="acryl_newpipe"/>
+    
+    <!-- MusicalNotes -->
+    <item 
+        component="ComponentInfo{jl.musicalnotes/jl.musicalnotes.activity.MainActivity}" 
+        drawable="acryl_musicalnotes"/>
+       
     <!-- Subz -->
     <item
         component="ComponentInfo{com.flasskamp.subz/com.flasskamp.subz.MainActivity}"

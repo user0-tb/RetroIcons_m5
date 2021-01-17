@@ -412,6 +412,11 @@
         component="ComponentInfo{me.hexian000.masstransfer/me.hexian000.masstransfer.MainActivity}" 
         drawable="acryl_masstransfer"/>
     
+    <!-- Materialfiles -->
+    <item 
+        component="ComponentInfo{me.zhanghai.android.files/me.zhanghai.android.files.filelist.FileListActivity}" 
+        drawable="acryl_materialfiles"/>
+    
     <!-- MetaGer Suche -->
     <item 
         component="ComponentInfo{de.metager.metagerapp.fdroid/de.metager.metagerapp.MainActivity}" 

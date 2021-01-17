@@ -45,7 +45,58 @@
         <item>acryl_eprssreader</item> 
         <item>acryl_escapepod</item> 
         <item>acryl_etar</item> 
-        <item>acryl_etesync</item>                                                                                                                    
+        <item>acryl_fairemail</item>  
+        <item>acryl_fdroid</item>  
+        <item>acryl_fedilab</item>  
+        <item>acryl_feeder</item>  
+        <item>acryl_fissh</item>  
+        <item>acryl_fitotrack</item>  
+        <item>acryl_florisboard</item>  
+        <item>acryl_flym</item>  
+        <item>acryl_forecastie</item>  
+        <item>acryl_forrunners</item>  
+        <item>acryl_fullcolemak</item>  
+        <item>acryl_fyreplace</item>  
+        <item>acryl_gadgetbridge</item>  
+        <item>acryl_geonotes</item>  
+        <item>acryl_gitnex</item>  
+        <item>acryl_greenbitcoinwallet</item>  
+        <item>acryl_homeapp2</item>  
+        <item>acryl_homebot</item>  
+        <item>acryl_hourlyreminder</item>  
+        <item>acryl_huewidget</item>  
+        <item>acryl_hypezig</item>  
+        <item>acryl_invidition</item>  
+        <item>acryl_joplin</item>  
+        <item>acryl_kisslauncher</item>  
+        <item>acryl_kodi</item>  
+        <item>acryl_kontalk</item>  
+        <item>acryl_kore</item>  
+        <item>acryl_koyuspace</item>  
+        <item>acryl_krautschluessel</item>  
+        <item>acryl_librehome</item>  
+        <item>acryl_libreipsum</item>  
+        <item>acryl_libretrivia</item>  
+        <item>acryl_lightandroidlauncher</item>  
+        <item>acryl_log28</item>  
+        <item>acryl_loophabittracker</item>  
+        <item>acryl_lrceditor</item>  
+        <item>acryl_manyverse</item>  
+        <item>acryl_markor</item>  
+        <item>acryl_masstransfer</item>  
+        <item>acryl_materialfiles</item>  
+        <item>acryl_metagersuche</item>  
+        <item>acryl_mifareclassictool</item>  
+        <item>acryl_minivector</item>  
+        <item>acryl_mobilizon</item>  
+        <item>acryl_monerujo</item>  
+        <item>acryl_moneytracker</item>  
+        <item>acryl_monochromatic</item>  
+        <item>acryl_morse</item>  
+        <item>acryl_movim</item>  
+        <item>acryl_music</item>  
+        <item>acryl_musicalnotes</item>  
+        <item>acryl_newpipe</item>  
         <item>acryl_subz</item>
     </string-array>
 </resources>

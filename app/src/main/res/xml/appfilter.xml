@@ -461,6 +461,11 @@
     <item 
         component="ComponentInfo{com.movim.movim/com.movim.movim.MainActivity}" 
         drawable="acryl_movim"/>
+
+    <!-- Music -->
+    <item 
+        component="ComponentInfo{org.lineageos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" 
+        drawable="acryl_music"/>
     
     <!-- NewPipe -->
     <item 

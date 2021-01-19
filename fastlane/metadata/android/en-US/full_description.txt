@@ -7,3 +7,4 @@ It has been tested and confirmed working with at least the following launchers:
 - KISS Launcher
 - OpenLaunchr
 - Rootless Pixel Launcher
+- Shade Launcher

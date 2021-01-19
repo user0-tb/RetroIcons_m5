@@ -5,6 +5,7 @@ This app is made by Sylvia van Os to help Mondstern bring their icons to several
 It has been tested and confirmed working with at least the following launchers:
 - Emerald Launcher
 - KISS Launcher
+- LukeLauncher
 - OpenLaunchr
 - Rootless Pixel Launcher
 - Shade Launcher

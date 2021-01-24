@@ -542,6 +542,11 @@
         component="ComponentInfo{de.jl.notificationlog/de.jl.notificationlog.ui.AppListActivity}" 
         drawable="acryl_notificationlog"/>
 
+    <!-- OCR -->
+    <item 
+        component="ComponentInfo{io.github.subhamtyagi.ocr/io.github.subhamtyagi.ocr.MainActivity}" 
+        drawable="acryl_ocr"/>
+    
     <!-- Odeon -->
     <item 
         component="ComponentInfo{fr.nihilus.music/fr.nihilus.music.HomeActivity}" 

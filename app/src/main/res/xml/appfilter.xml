@@ -627,6 +627,11 @@
         component="ComponentInfo{com.alxgnon.postwriter/com.alxgnon.postwriter.MainActivity}" 
         drawable="acryl_postwriter"/>
 
+    <!-- Potato Project Notes -->
+    <item 
+        component="ComponentInfo{com.potatoproject.notes/com.potatoproject.notes.MainActivity}" 
+        drawable="acryl_potatoprojectnotes"/>        
+
     <!-- Pro Expense -->
     <item 
         component="ComponentInfo{com.arduia.expense/com.arduia.expense.ui.MainActivity}" 
@@ -761,6 +766,11 @@
     <item 
         component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" 
         drawable="acryl_termux"/>
+
+    <!-- Text Torch -->
+    <item 
+        component="ComponentInfo{com.mileskrell.texttorch/com.mileskrell.texttorch.MainActivity}" 
+        drawable="acryl_texttorch"/>        
 
     <!-- TimeLimit -->
     <item 

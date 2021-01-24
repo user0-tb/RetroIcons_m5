@@ -510,7 +510,7 @@
     <!-- Nextcloud Yaga -->
     <item 
         component="ComponentInfo{com.github.vauvenal5.yaga/com.github.vauvenal5.yaga.MainActivity}" 
-        drawable="yaga"/>
+        drawable="acryl_nextcloudyaga"/>
 
     <!-- NextTracks -->
     <item 
@@ -745,7 +745,7 @@
     <!-- Taupunkt -->
     <item 
         component="ComponentInfo{de.hoffmannsgimmickstaupunkt/de.hoffmannsgimmickstaupunkt.TaupunktActivity}" 
-        drawable="taupunkt"/>
+        drawable="acryl_taupunkt"/>
 
     <!-- TC -->
     <item 

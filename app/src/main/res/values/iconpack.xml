@@ -66,7 +66,7 @@
         <item>acryl_homeapp2</item>  
         <item>acryl_homebot</item>  
         <item>acryl_hourlyreminder</item>  
-        <item>acryl_huewidget</item>  
+        <item>acryl_huewidgets</item>  
         <item>acryl_hypezig</item>  
         <item>acryl_joplin</item>  
         <item>acryl_kisslauncher</item>  
@@ -100,6 +100,7 @@
         <item>acryl_newpipe</item>  
         <item>acryl_nextcloud</item>  
         <item>acryl_nextcloudcookbook</item>  
+        <item>acryl_nextcloudcookbookflutter</item>
         <item>acryl_nextcloudyaga</item>  
         <item>acryl_nexttracks</item>  
         <item>acryl_nicefeed</item>  
@@ -129,7 +130,7 @@
         <item>acryl_pslab</item>  
         <item>acryl_pulsemusic</item>  
         <item>acryl_railwaystationphotos</item>  
-        <item>acryl_risetoanswer</item>  
+        <item>acryl_raisetoanswer</item>  
         <item>acryl_redmoon</item>  
         <item>acryl_rxdroid</item>  
         <item>acryl_scrambledexif</item>  

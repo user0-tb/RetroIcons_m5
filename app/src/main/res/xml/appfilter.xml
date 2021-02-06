@@ -870,7 +870,7 @@
     <!-- VocableTrainer Beta -->
     <item 
         component="ComponentInfo{vocabletrainer.heinecke.aron.vocabletrainer/vocabletrainer.heinecke.aron.vocabletrainer.activity.MainActivity}" 
-        drawable="vocabletrainer"/>
+        drawable="acryl_vocabletrainer"/>
     
     <!-- Volume Control -->
     <item 

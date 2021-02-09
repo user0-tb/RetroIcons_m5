@@ -14,3 +14,5 @@ It has been tested and confirmed working with at least the following launchers:
 - Sentien Launcher
 - Shade Launcher
 - Zim Launcher
+
+- Trebuchet Launcher (lineage Launcher) not on F-Droid

@@ -16,3 +16,4 @@ It has been tested and confirmed working with at least the following launchers:
 - Zim Launcher
 
 - Trebuchet Launcher (lineage Launcher) not on F-Droid
+- Nova Launcher, not on F-Droid

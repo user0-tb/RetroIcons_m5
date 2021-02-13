@@ -1,3 +1,9 @@
+## Version 5
+
+fixes display of incorrectly displayed icons:<br>
+
+vespucci<br> 
+
 ## Version 4
 
 includes the following icons:<br>

@@ -1,6 +1,6 @@
 ## Version 5
 
-fixes display of incorrectly displayed icons:<br>
+fixes display of incorrectly displayed icon:<br>
 
 vespucci<br> 
 

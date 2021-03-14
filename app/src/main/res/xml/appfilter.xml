@@ -927,9 +927,6 @@
         component="ComponentInfo{org.zimmob.zimlx/org.zimmob.zimlx.ZimLauncher}" 
         drawable="acryl_zimlauncher"/>
 
-    
-    
-    
     <!-- 2 Player Battle -->
     <item 
         component="ComponentInfo{ir.hsn6.tpb/com.godot.game.GodotApp}" 
@@ -953,12 +950,12 @@
     <!-- AsteroidOS Sync -->
     <item 
         component="ComponentInfo{org.asteroidos.sync/org.asteroidos.sync.PermissionsActivity}" 
-        drawable="acryl_asteroidossync"/>
+        drawable="acryl_asteroidos"/>
 
     <!-- aTox -->
     <item 
         component="ComponentInfo{ltd.evilcorp.atox/ltd.evilcorp.atox.MainActivity}" 
-        drawable="acryl_atox"/>
+        drawable="acryl_aTox"/>
 
     <!-- Badge Magic -->
     <item 
@@ -998,7 +995,7 @@
     <!-- Dateimanager -->
     <item 
         component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange}" 
-        drawable="acryl_dateimanager"/>
+        drawable="acryl_simplefilemanagerpro"/>
 
     <!-- deedum -->
     <item 
@@ -1023,22 +1020,22 @@
     <!-- Eventyay Attendee -->
     <item 
         component="ComponentInfo{com.eventyay.attendee/org.fossasia.openevent.general.MainActivity}" 
-        drawable="acryl_eventyayattendee"/>
+        drawable="acryl_eventyayattendeeapp"/>
 
     <!-- Eventyay Organizer -->
     <item 
         component="ComponentInfo{com.eventyay.organizer/com.eventyay.organizer.core.auth.AuthActivity}" 
-        drawable="acryl_eventyayorganizer"/>
+        drawable="acryl_eventyayorganizerapp"/>
 
     <!-- F-Droid Build Status -->
     <item 
         component="ComponentInfo{de.storchp.fdroidbuildstatus/de.storchp.fdroidbuildstatus.MainActivity}" 
-        drawable="acryl_f-droidbuildstatus"/>
+        drawable="acryl_fdroidbuildstatus"/>
 
     <!-- F-Droid Classic -->
     <item 
         component="ComponentInfo{eu.bubu1.fdroidclassic/org.fdroid.fdroid.FDroid}" 
-        drawable="acryl_f-droidclassic"/>
+        drawable="acryl_fdroidclassic"/>
 
     <!-- Flashy -->
     <item 
@@ -1048,7 +1045,7 @@
     <!-- Galerie -->
     <item 
         component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}" 
-        drawable="acryl_galerie"/>
+        drawable="acryl_simplegallerypro"/>
 
     <!-- GeoNotes -->
     <item 
@@ -1058,7 +1055,7 @@
     <!-- Grocy Android -->
     <item 
         component="ComponentInfo{xyz.zedler.patrick.grocy/xyz.zedler.patrick.grocy.activity.SplashActivity}" 
-        drawable="acryl_grocy"/>
+        drawable="acryl_grocyandroid"/>
 
     <!-- HTTP Shortcuts -->
     <item 
@@ -1069,6 +1066,9 @@
     <item 
         component="ComponentInfo{de.kaffeemitkoffein.imagepipe/de.kaffeemitkoffein.imagepipe.ImageReceiver}" 
         drawable="acryl_imagepipe"/>
+
+
+        
 
     <!-- ImgurViewer -->
     <item 

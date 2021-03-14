@@ -927,4 +927,416 @@
         component="ComponentInfo{org.zimmob.zimlx/org.zimmob.zimlx.ZimLauncher}" 
         drawable="acryl_zimlauncher"/>
 
+    
+    
+    
+    <!-- 2 Player Battle -->
+    <item 
+        component="ComponentInfo{ir.hsn6.tpb/com.godot.game.GodotApp}" 
+        drawable="acryl_2playerbattle"/>
+
+    <!-- Acode -->
+    <item 
+        component="ComponentInfo{com.foxdebug.acode/com.foxdebug.acode.MainActivity}" 
+        drawable="acryl_acode"/>
+
+    <!-- Antimine -->
+    <item 
+        component="ComponentInfo{dev.lucanlm.antimine/dev.lucasnlm.antimine.splash.SplashActivity}" 
+        drawable="acryl_antimine"/>
+
+    <!-- Ariane -->
+    <item 
+        component="ComponentInfo{oppen.gemini.ariane/oppen.ariane.ui.GemActivity}" 
+        drawable="acryl_ariane"/>
+
+    <!-- AsteroidOS Sync -->
+    <item 
+        component="ComponentInfo{org.asteroidos.sync/org.asteroidos.sync.PermissionsActivity}" 
+        drawable="acryl_asteroidossync"/>
+
+    <!-- aTox -->
+    <item 
+        component="ComponentInfo{ltd.evilcorp.atox/ltd.evilcorp.atox.MainActivity}" 
+        drawable="acryl_atox"/>
+
+    <!-- Badge Magic -->
+    <item 
+        component="ComponentInfo{org.fossasia.badgemagic/org.fossasia.badgemagic.ui.DrawerActivity}" 
+        drawable="acryl_badgemagic"/>
+
+    <!-- Barinsta -->
+    <item 
+        component="ComponentInfo{me.austinhuang.instagrabber/awais.instagrabber.activities.MainActivity}" 
+        drawable="acryl_barinsta"/>
+
+    <!-- Bitwarden -->
+    <item 
+        component="ComponentInfo{com.x8bit.bitwarden/com.x8bit.bitwarden.MainActivity}" 
+        drawable="acryl_bitwarden"/>
+
+    <!-- blabber.im -->
+    <item 
+        component="ComponentInfo{de.pixart.messenger/de.pixart.messenger.ui.StartUI}" 
+        drawable="acryl_blabberim"/>
+
+    <!-- Block Puzzle -->
+    <item 
+        component="ComponentInfo{de.mwvb.blockpuzzle/de.mwvb.blockpuzzle.StartScreenActivity}" 
+        drawable="acryl_blockpuzzle"/>
+    
+    <!-- BoltOn -->
+    <item 
+        component="ComponentInfo{com.matt.bolton/com.matt.bolton.BoltOnActivity}" 
+        drawable="acryl_bolton"/>
+    
+    <!-- Dagger -->
+    <item 
+        component="ComponentInfo{com.nikola.jakshic.dagger/com.nikola.jakshic.dagger.MainActivity}" 
+        drawable="acryl_dagger"/>
+
+    <!-- Dateimanager -->
+    <item 
+        component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Orange}" 
+        drawable="acryl_dateimanager"/>
+
+    <!-- deedum -->
+    <item 
+        component="ComponentInfo{ca.snoe.deedum/ca.snoe.deedum.MainActivity}" 
+        drawable="acryl_deedum"/>
+
+    <!-- Delta Chat -->
+    <item 
+        component="ComponentInfo{com.b44t.messenger/org.thoughtcrime.securesms.RoutingActivity}" 
+        drawable="acryl_deltachat"/>
+
+    <!-- Discreet Launcher -->
+    <item 
+        component="ComponentInfo{com.vincent_falzon.discreetlauncher/com.vincent_falzon.discreetlauncher.ActivityMain}" 
+        drawable="acryl_discreetlauncher"/>
+
+    <!-- Elementary -->
+    <item 
+        component="ComponentInfo{com.ultramegatech.ey/com.ultramegatech.ey.PeriodicTableActivity}" 
+        drawable="acryl_elementary"/>
+
+    <!-- Eventyay Attendee -->
+    <item 
+        component="ComponentInfo{com.eventyay.attendee/org.fossasia.openevent.general.MainActivity}" 
+        drawable="acryl_eventyayattendee"/>
+
+    <!-- Eventyay Organizer -->
+    <item 
+        component="ComponentInfo{com.eventyay.organizer/com.eventyay.organizer.core.auth.AuthActivity}" 
+        drawable="acryl_eventyayorganizer"/>
+
+    <!-- F-Droid Build Status -->
+    <item 
+        component="ComponentInfo{de.storchp.fdroidbuildstatus/de.storchp.fdroidbuildstatus.MainActivity}" 
+        drawable="acryl_f-droidbuildstatus"/>
+
+    <!-- F-Droid Classic -->
+    <item 
+        component="ComponentInfo{eu.bubu1.fdroidclassic/org.fdroid.fdroid.FDroid}" 
+        drawable="acryl_f-droidclassic"/>
+
+    <!-- Flashy -->
+    <item 
+        component="ComponentInfo{rocks.poopjournal.flashy/com.poopjournal.flashy.MainActivity}" 
+        drawable="acryl_flashy"/>
+
+    <!-- Galerie -->
+    <item 
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}" 
+        drawable="acryl_galerie"/>
+
+    <!-- GeoNotes -->
+    <item 
+        component="ComponentInfo{de.hauke_stieler.geonotes/de.hauke_stieler.geonotes.MainActivity}" 
+        drawable="acryl_geonotes"/>
+
+    <!-- Grocy Android -->
+    <item 
+        component="ComponentInfo{xyz.zedler.patrick.grocy/xyz.zedler.patrick.grocy.activity.SplashActivity}" 
+        drawable="acryl_grocy"/>
+
+    <!-- HTTP Shortcuts -->
+    <item 
+        component="ComponentInfo{ch.rmy.android.http_shortcuts/ch.rmy.android.http_shortcuts.activities.main.MainActivity}" 
+        drawable="acryl_httpshortcuts"/>
+    
+    <!-- Imagepipe -->
+    <item 
+        component="ComponentInfo{de.kaffeemitkoffein.imagepipe/de.kaffeemitkoffein.imagepipe.ImageReceiver}" 
+        drawable="acryl_imagepipe"/>
+
+    <!-- ImgurViewer -->
+    <item 
+        component="ComponentInfo{com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer}" 
+        drawable="acryl_imgurviewer"/>
+
+    <!-- InstaLate Einstellungen -->
+    <item 
+        component="ComponentInfo{com.concept1tech.instalate/com.concept1tech.instalate.PrefsActivity}" 
+        drawable="acryl_instalateeinstellungen"/>
+
+    <!-- JioFi Battery Notifier -->
+    <item 
+        component="ComponentInfo{espero.jiofibatterynotifier/espero.jiofibatterynotifier.Activites.MainActivity}" 
+        drawable="acryl_jiofibatterynotifier"/>
+
+    <!-- Just Another Workout Timer -->
+    <item 
+        component="ComponentInfo{com.blockbasti.justanotherworkouttimer/com.blockbasti.just_another_workout_timer.MainActivity}" 
+        drawable="acryl_justanotherworkouttimer"/>
+
+    <!-- K-9 Mail -->
+    <item 
+        component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageList}" 
+        drawable="acryl_k-9mail"/>
+    
+    <!-- KFZ-Kennzeichen -->
+    <item 
+        component="ComponentInfo{luke.kfz/luke.kfz.MainActivity}" 
+        drawable="acryl_kfz-kennzeichen"/>
+    
+    <!-- Kontakte -->
+    <item 
+        component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Orange}" 
+        drawable="acryl_kontakte"/>
+
+    <!-- Lesezeichen -->
+    <item 
+        component="ComponentInfo{org.schabi.nxbookmarks/org.schabi.ocbookmarks.MainActivity}" 
+        drawable="acryl_lesezeichen"/>
+
+    <!-- Libero Vocab -->
+    <item 
+        component="ComponentInfo{org.inventati.massimol.liberovocab/org.inventati.massimol.liberovocab.activities.MainMenuActivity}" 
+        drawable="acryl_liberovocab"/>
+
+    <!-- MediLog -->
+    <item 
+        component="ComponentInfo{com.zell_mbc.medilog/com.zell_mbc.medilog.MainActivity}" 
+        drawable="acryl_medilog"/>
+
+    <!-- Memory -->
+    <item 
+        component="ComponentInfo{com.sanskritbasics.memory/com.sanskritbasics.memory.MainActivity}" 
+        drawable="acryl_memory"/>
+
+    <!-- Metro -->
+    <item 
+        component="ComponentInfo{io.github.muntashirakon.Music/io.github.muntashirakon.music.activities.MainActivity}" 
+        drawable="acryl_metro"/>
+
+    <!-- MIDICtrl -->
+    <item 
+        component="ComponentInfo{moe.martini.midictrl/moe.martini.midictrl.ControlActivity}" 
+        drawable="acryl_midictrl"/>
+
+    <!-- Mondstern Acrylic Icons -->
+    <item 
+        component="ComponentInfo{de.moooon.acrylicons/de.moooon.acrylicons.MainActivity}" 
+        drawable="acryl_mondsternacrylicicons"/>
+
+    <!-- Notally -->
+    <item 
+        component="ComponentInfo{com.omgodse.notally/com.omgodse.notally.activities.MainActivity}" 
+        drawable="acryl_notally"/>
+
+    <!-- Noteless -->
+    <item 
+        component="ComponentInfo{net.redsolver.noteless/net.redsolver.noteless.MainActivity}" 
+        drawable="acryl_noteless"/>
+
+    <!-- OCReader -->
+    <item 
+        component="ComponentInfo{email.schaal.ocreader/email.schaal.ocreader.ListActivity}" 
+        drawable="acryl_ocreader"/>
+
+    <!-- OkcAgent -->
+    <item 
+        component="ComponentInfo{org.ddosolitary.okcagent/org.ddosolitary.okcagent.MainActivity}" 
+        drawable="acryl_okcagent"/>
+
+    <!-- Open Camera -->
+    <item 
+        component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}" 
+        drawable="acryl_opencamera"/>
+
+    <!-- OSM Dashboard für OpenTracks -->
+    <item 
+        component="ComponentInfo{de.storchp.opentracks.osmplugin/de.storchp.opentracks.osmplugin.MainActivity}" 
+        drawable="acryl_osmdashboardfropentracks"/>
+
+    <!-- OSM Dashboard Offline für OpenTracks -->
+    <item 
+        component="ComponentInfo{de.storchp.opentracks.osmplugin.offline/de.storchp.opentracks.osmplugin.MainActivity}" 
+        drawable="acryl_osmdashboardofflinefropentracks"/>
+    
+    <!-- p≡p -->
+    <item 
+        component="ComponentInfo{security.pEp/com.fsck.k9.pEp.ui.activities.SplashActivity}" 
+        drawable="acryl_pp"/>
+
+    <!-- Periodical -->
+    <item 
+        component="ComponentInfo{de.arnowelzel.android.periodical/de.arnowelzel.android.periodical.MainActivity}" 
+        drawable="acryl_periodical"/>
+
+    <!-- Photok -->
+    <item 
+        component="ComponentInfo{dev.leonlatsch.photok/dev.leonlatsch.photok.MainLauncher}" 
+        drawable="acryl_photok"/>
+
+    <!-- PixelDroid -->
+    <item 
+        component="ComponentInfo{com.h.pixeldroid/com.h.pixeldroid.MainActivity}" 
+        drawable="acryl_pixeldroid"/>
+
+    <!-- posidon launcher -->
+    <item 
+        component="ComponentInfo{posidon.launcher/posidon.launcher.Home}" 
+        drawable="acryl_posidonlauncher"/>
+
+    <!-- PowerTunnel -->
+    <item 
+        component="ComponentInfo{ru.krlvm.powertunnel.android/ru.krlvm.powertunnel.android.MainActivity}" 
+        drawable="acryl_powertunnel"/>
+
+    <!-- Pro Expense -->
+    <item 
+        component="ComponentInfo{com.arduia.expense/com.arduia.expense.ui.MainActivity}" 
+        drawable="acryl_proexpense"/>
+    
+    <!-- Rechnen -->
+    <item 
+        component="ComponentInfo{com.rechnen.app/com.rechnen.app.ui.userlist.SelectUserActivity}" 
+        drawable="acryl_rechnen"/>
+
+    <!-- Rechner -->
+    <item 
+        component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Orange}" 
+        drawable="acryl_rechner"/>
+
+    <!-- Retro Music -->
+    <item 
+        component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity}" 
+        drawable="acryl_retromusic"/>
+
+    <!-- Runner -->
+    <item 
+        component="ComponentInfo{ir.lydia.runner/ir.lydia.runner.SplashScreen}" 
+        drawable="acryl_runner"/>
+
+    <!-- SchildiChat -->
+    <item 
+        component="ComponentInfo{de.spiritcroc.riotx/im.vector.app.features.Alias}" 
+        drawable="acryl_schildichat"/>
+
+    <!-- Sentien Launcher -->
+    <item 
+        component="ComponentInfo{com.sentienhq.launcher/com.sentienhq.launcher.MainActivity}" 
+        drawable="acryl_sentienlauncher"/>
+
+    <!-- Share To InputStick -->
+    <item 
+        component="ComponentInfo{me.hackerchick.sharetoinputstick/me.hackerchick.sharetoinputstick.MainActivity}" 
+        drawable="acryl_sharetoinputstick"/>
+
+    <!-- Sharik -->
+    <item 
+        component="ComponentInfo{dev.marchello.sharik/dev.marchello.sharik.MainActivity}" 
+        drawable="acryl_sharik"/>
+
+    <!-- SkyDroid -->
+    <item 
+        component="ComponentInfo{app.skydroid/app.skydroid.MainActivity}" 
+        drawable="acryl_skydroid"/>
+
+    <!-- SMS Messenger -->
+    <item 
+        component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange}" 
+        drawable="acryl_smsmessenger"/>
+
+    <!-- Spartathlon -->
+    <item 
+        component="ComponentInfo{ch.thgoebel.spartathlonapp/ch.thgoebel.spartathlonapp.MainActivity}" 
+        drawable="acryl_spartathlon"/>
+
+    <!-- Teddy For Reddit -->
+    <item 
+        component="ComponentInfo{com.example.teddyforreddit/com.example.teddyforreddit.MainActivity}" 
+        drawable="acryl_teddyforreddit"/>
+
+    <!-- Telefon -->
+    <item 
+        component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Orange}" 
+        drawable="acryl_telefon"/>
+
+    <!-- Tizeno -->
+    <item 
+        component="ComponentInfo{com.hash.tizeno/com.hash.tizeno.MainActivity}" 
+        drawable="acryl_tizeno"/>
+
+    <!-- To-Do Liste -->
+    <item 
+        component="ComponentInfo{com.plusonelabs.calendar/org.andstatus.todoagenda.MainActivity}" 
+        drawable="acryl_to-doliste"/>
+
+    <!-- To-Do Liste -->
+    <item 
+        component="ComponentInfo{org.andstatus.todoagenda/org.andstatus.todoagenda.MainActivity}" 
+        drawable="acryl_to-doliste"/>
+
+    <!-- Trail Sense -->
+    <item 
+        component="ComponentInfo{com.kylecorry.trail_sense/com.kylecorry.trail_sense.MainActivity}" 
+        drawable="acryl_trailsense"/>
+
+    <!-- Transistor -->
+    <item 
+        component="ComponentInfo{org.y20k.transistor/org.y20k.transistor.MainActivity}" 
+        drawable="acryl_transistor"/>
+
+    <!-- TubeAcad -->
+    <item 
+        component="ComponentInfo{app.fedilab.fedilabtube/app.fedilab.fedilabtube.MainActivity}" 
+        drawable="acryl_tubeacad"/>
+
+    <!-- TubeLab -->
+    <item 
+        component="ComponentInfo{app.fedilab.tubelab/app.fedilab.fedilabtube.MainActivity}" 
+        drawable="acryl_tubelab"/>
+
+    <!-- TV Randshow -->
+    <item 
+        component="ComponentInfo{deandrea.matias.tv_randshow/deandrea.matias.tv_randshow.MainActivity}" 
+        drawable="acryl_tvrandshow"/>
+
+    <!-- Twidere -->
+    <item 
+        component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" 
+        drawable="acryl_twidere"/>
+
+    <!-- VoIP.ms SMS -->
+    <item 
+        component="ComponentInfo{net.kourlas.voipms_sms/net.kourlas.voipms_sms.conversations.ConversationsActivity}" 
+        drawable="acryl_voip.mssms"/>
+
+    <!-- Volume Control -->
+    <item 
+        component="ComponentInfo{com.punksta.apps.volumecontrol/com.example.punksta.volumecontrol.MainActivity}" 
+        drawable="acryl_volumecontrol"/>
+
+    <!-- Watomatic -->
+    <item 
+        component="ComponentInfo{com.parishod.watomatic/com.parishod.watomatic.activity.main.MainActivity}" 
+        drawable="acryl_watomatic"/>
+
+    <!-- WLANScanner -->
+    <item 
+        component="ComponentInfo{org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity}" 
+        drawable="acryl_wlanscanner"/>
 </resources>

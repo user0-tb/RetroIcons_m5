@@ -1067,18 +1067,15 @@
         component="ComponentInfo{de.kaffeemitkoffein.imagepipe/de.kaffeemitkoffein.imagepipe.ImageReceiver}" 
         drawable="acryl_imagepipe"/>
 
-
-        
-
     <!-- ImgurViewer -->
     <item 
         component="ComponentInfo{com.ensoft.imgurviewer/com.ensoft.imgurviewer.view.activity.ImageViewer}" 
         drawable="acryl_imgurviewer"/>
 
-    <!-- InstaLate Einstellungen -->
+    <!-- InstaLate -->
     <item 
         component="ComponentInfo{com.concept1tech.instalate/com.concept1tech.instalate.PrefsActivity}" 
-        drawable="acryl_instalateeinstellungen"/>
+        drawable="acryl_instalate"/>
 
     <!-- JioFi Battery Notifier -->
     <item 
@@ -1093,22 +1090,22 @@
     <!-- K-9 Mail -->
     <item 
         component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.MessageList}" 
-        drawable="acryl_k-9mail"/>
+        drawable="acryl_k9mail"/>
     
     <!-- KFZ-Kennzeichen -->
     <item 
         component="ComponentInfo{luke.kfz/luke.kfz.MainActivity}" 
-        drawable="acryl_kfz-kennzeichen"/>
+        drawable="acryl_kfzkennzeichen"/>
     
     <!-- Kontakte -->
     <item 
         component="ComponentInfo{com.simplemobiletools.contacts.pro/com.simplemobiletools.contacts.pro.activities.SplashActivity.Orange}" 
-        drawable="acryl_kontakte"/>
+        drawable="acryl_simplecontactspro"/>
 
     <!-- Lesezeichen -->
     <item 
         component="ComponentInfo{org.schabi.nxbookmarks/org.schabi.ocbookmarks.MainActivity}" 
-        drawable="acryl_lesezeichen"/>
+        drawable="acryl_nextcloudbookmarks"/>
 
     <!-- Libero Vocab -->
     <item 
@@ -1138,7 +1135,7 @@
     <!-- Mondstern Acrylic Icons -->
     <item 
         component="ComponentInfo{de.moooon.acrylicons/de.moooon.acrylicons.MainActivity}" 
-        drawable="acryl_mondsternacrylicicons"/>
+        drawable="acryl_acrylicicons"/>
 
     <!-- Notally -->
     <item 
@@ -1168,17 +1165,17 @@
     <!-- OSM Dashboard für OpenTracks -->
     <item 
         component="ComponentInfo{de.storchp.opentracks.osmplugin/de.storchp.opentracks.osmplugin.MainActivity}" 
-        drawable="acryl_osmdashboardfropentracks"/>
+        drawable="acryl_osmdashboard"/>
 
     <!-- OSM Dashboard Offline für OpenTracks -->
     <item 
         component="ComponentInfo{de.storchp.opentracks.osmplugin.offline/de.storchp.opentracks.osmplugin.MainActivity}" 
-        drawable="acryl_osmdashboardofflinefropentracks"/>
+        drawable="acryl_osmdashboardoffline"/>
     
     <!-- p≡p -->
     <item 
         component="ComponentInfo{security.pEp/com.fsck.k9.pEp.ui.activities.SplashActivity}" 
-        drawable="acryl_pp"/>
+        drawable="acryl_pep"/>
 
     <!-- Periodical -->
     <item 
@@ -1218,12 +1215,12 @@
     <!-- Rechner -->
     <item 
         component="ComponentInfo{com.simplemobiletools.calculator/com.simplemobiletools.calculator.activities.SplashActivity.Orange}" 
-        drawable="acryl_rechner"/>
+        drawable="acryl_simplecalculator"/>
 
     <!-- Retro Music -->
     <item 
         component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity}" 
-        drawable="acryl_retromusic"/>
+        drawable="acryl_retro"/>
 
     <!-- Runner -->
     <item 
@@ -1258,7 +1255,7 @@
     <!-- SMS Messenger -->
     <item 
         component="ComponentInfo{com.simplemobiletools.smsmessenger/com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange}" 
-        drawable="acryl_smsmessenger"/>
+        drawable="acryl_simplesmsmessenger"/>
 
     <!-- Spartathlon -->
     <item 
@@ -1273,22 +1270,22 @@
     <!-- Telefon -->
     <item 
         component="ComponentInfo{com.simplemobiletools.dialer/com.simplemobiletools.dialer.activities.SplashActivity.Orange}" 
-        drawable="acryl_telefon"/>
+        drawable="acryl_simpledialer"/>
 
     <!-- Tizeno -->
     <item 
         component="ComponentInfo{com.hash.tizeno/com.hash.tizeno.MainActivity}" 
         drawable="acryl_tizeno"/>
 
-    <!-- To-Do Liste -->
+    <!-- ToDo Agenda -->
     <item 
         component="ComponentInfo{com.plusonelabs.calendar/org.andstatus.todoagenda.MainActivity}" 
-        drawable="acryl_to-doliste"/>
+        drawable="acryl_todoagenda"/>
 
-    <!-- To-Do Liste -->
+    <!-- ToDo Agenda -->
     <item 
         component="ComponentInfo{org.andstatus.todoagenda/org.andstatus.todoagenda.MainActivity}" 
-        drawable="acryl_to-doliste"/>
+        drawable="acryl_todoagenda"/>
 
     <!-- Trail Sense -->
     <item 
@@ -1323,12 +1320,7 @@
     <!-- VoIP.ms SMS -->
     <item 
         component="ComponentInfo{net.kourlas.voipms_sms/net.kourlas.voipms_sms.conversations.ConversationsActivity}" 
-        drawable="acryl_voip.mssms"/>
-
-    <!-- Volume Control -->
-    <item 
-        component="ComponentInfo{com.punksta.apps.volumecontrol/com.example.punksta.volumecontrol.MainActivity}" 
-        drawable="acryl_volumecontrol"/>
+        drawable="acryl_voipmssms"/>
 
     <!-- Watomatic -->
     <item 

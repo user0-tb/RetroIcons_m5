@@ -218,7 +218,7 @@
         <item>acryl_kfzkennzeichen</item>
         <item>acryl_liberovocab</item>
         <item>acryl_medilog</item>
-        <item>acryl_memopry</item>
+        <item>acryl_memory</item>
         <item>acryl_metro</item>
         <item>acryl_midictrl</item>
         <item>acryl_nextcloudbookmarks</item>
@@ -237,6 +237,7 @@
         <item>acryl_powertunnel</item>
         <item>acryl_proexpense</item>
         <item>acryl_rechnen</item>
+        <item>acryl_retro</item>
         <item>acryl_runner</item>
         <item>acryl_schildichat</item>
         <item>acryl_sentienlauncher</item>
@@ -249,11 +250,14 @@
         <item>acryl_simplegallerypro</item>
         <item>acryl_simplesmsmessenger</item>
         <item>acryl_skydroid</item>
+        <item>acryl_spartathlon</item>
         <item>acryl_teddyforreddit</item>
         <item>acryl_tizeno</item>
         <item>acryl_todoagenda</item>
         <item>acryl_trailsense</item>
         <item>acryl_transistor</item>
+        <item>acryl_tubeacad</item>
+        <item>acryl_tubelab</item>
         <item>acryl_tvrandshow</item>
         <item>acryl_twidere</item>
         <item>acryl_voipmssms</item>

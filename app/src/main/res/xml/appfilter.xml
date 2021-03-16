@@ -955,7 +955,7 @@
     <!-- aTox -->
     <item 
         component="ComponentInfo{ltd.evilcorp.atox/ltd.evilcorp.atox.MainActivity}" 
-        drawable="acryl_aTox"/>
+        drawable="acryl_atox"/>
 
     <!-- Badge Magic -->
     <item 

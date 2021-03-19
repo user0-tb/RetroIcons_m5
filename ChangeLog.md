@@ -1,3 +1,25 @@
+## Version 8
+
+fixes aTox -> atox
+
+## Version 7
+
+new: 79 icons<br>
+
+eventyayorganizerapp, 2playerbattle, acode, acrylicicons, antimine, ariane, asteroidos, aTox, badgemagic, barinsta, bitwarden, blabberim, blockpuzzle, bolton, dagger, deedum, deltachat, discreetlauncher, elementary, eventyayattendeeapp, fdroidbuildstatus, fdroidclassic, flashy, geonotes, grocyandroid, httpshortcuts, imagepipe, imgurviewer, instalate, jiofibatterynotifier, justanotherworkouttimer, k9mail, kfzkennzeichen, liberovocab, medilog, memory, metro, midictrl, nextcloudbookmarks, notally, noteless, ocreader, okcagent, opencamera, osmdashboard, osmdashboardoffline, pep, periodical, photok, pixeldroid, posidonlauncher, powertunnel, proexpense, rechnen, retro, runner, schildichat, sentienlauncher, sharetoinputstick, sharik, simplecalculator, simplecontactspro, simpledialer, simplefilemanagerpro, simplegallerypro, simplesmsmessenger, skydroid, teddyforreddit, tizeno, todoagenda, trailsense, transistor, tubeacad, tubelab, tvrandshow, twidere, voipmssms, watomatic and wlanscanner<br>
+
+exchanged: nextcloudcookbook of micmun (new logo)<br>
+
+what is new from now on<br>
+
+all icons are only listed one below the other, i.e. from version 1.0 to 6.0 everything was from A to Z. from version 7.0 onwards, all new icons are listed below and not everything from A to Z any more<br>
+
+## Version 6
+
+fixes 53 icons with borders<br>
+
+archpackages, binaryeye, bookreader, briar, clover, dailydozen, dandelior, derdiedas, diab, dmsexplorer, emeraldialer, eprssreader, etesync, fdroid, flym, huewidgets, kisslauncher, kodi, kore, krautschluessel, lightandroidlauncher, markor, minivector, monerujo, monochromatic, movim, newpipe, notepad, oeffi, opencontacts, opendnsupdater, openhab, openlauncher, openscale, riot, rxdroid, sdbviewer, skytube, streetcomplete, suntimes, superfreeze, syncopoli, termux, timelimit, timetable, transportr, trigger, tusky, ulogger, unstoppable, vanillamusic, vocabletrainer and zapp<br>
+
 ## Version 5
 
 fixes display of incorrectly displayed icon:<br>

@@ -1,3 +1,7 @@
+## Version 9
+
+fixes newpipe and tusky with borders<br>
+
 ## Version 8
 
 fixes aTox -> atox

@@ -1331,4 +1331,205 @@
     <item 
         component="ComponentInfo{org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity}" 
         drawable="acryl_wlanscanner"/>
+
+
+    <!-- Arcticons Dark -->
+    <item 
+        component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.SplashActivity}" 
+        drawable="acryl_arcticonsdark"/>
+
+    <!-- Arcticons Light -->
+    <item 
+        component="ComponentInfo{com.donnnno.arcticons.light/com.donnnno.arcticons.activities.SplashActivity}" 
+        drawable="acryl_arcticonslight"/>
+
+    <!-- Aurora Droid -->
+    <item 
+        component="ComponentInfo{com.aurora.adroid/com.aurora.adroid.ui.generic.activity.SplashActivity}" 
+        drawable="acryl_auroradroid"/>
+
+    <!-- AVNC -->
+    <item 
+        component="ComponentInfo{com.gaurav.avnc/com.gaurav.avnc.StartupActivity}" 
+        drawable="acryl_avnc"/>
+
+    <!-- browser -->
+    <item 
+        component="ComponentInfo{de.monocles.browser/de.monocles.browser.activities.MainWebViewActivity}" 
+        drawable="acryl_browser"/>
+
+    <!-- Delist -->
+    <item 
+        component="ComponentInfo{ca.ramzan.delist/ca.ramzan.delist.common.MainActivity}" 
+        drawable="acryl_delist"/>
+
+    <!-- droidVNC-NG Admin Panel -->
+    <item 
+        component="ComponentInfo{net.christianbeier.droidvnc_ng/net.christianbeier.droidvnc_ng.MainActivity}" 
+        drawable="acryl_droidvnc-ngadminpanel"/>
+
+    <!-- Einkaufsliste -->
+    <item 
+        component="ComponentInfo{pl.edu.pjwstk.s999844.shoppinglist/pl.edu.pjwstk.s999844.shoppinglist.MainActivity}" 
+        drawable="acryl_einkaufsliste"/>
+
+    <!-- Exif Thumbnail Adder -->
+    <item 
+        component="ComponentInfo{com.exifthumbnailadder.app/com.exifthumbnailadder.app.MainActivity}" 
+        drawable="acryl_exifthumbnailadder"/>
+
+    <!-- F-Droid nearby -->
+    <item 
+        component="ComponentInfo{org.fdroid.nearby/org.fdroid.fdroid.MainActivity}" 
+        drawable="acryl_fdroidnearby"/>
+
+    <!-- Feeel -->
+    <item 
+        component="ComponentInfo{com.enjoyingfoss.feeel/io.flutter.embedding.android.FlutterActivity}" 
+        drawable="acryl_feeel"/>
+
+    <!-- Fites Training schnell -->
+    <item 
+        component="ComponentInfo{com.fitworkoutfast/com.fitworkoutfast.MainActivity}" 
+        drawable="acryl_fitestrainingschnell"/>
+
+    <!-- Friendiqa -->
+    <item 
+        component="ComponentInfo{org.qtproject.friendiqa/androidnative.friendiqa.FriendiqaActivity}" 
+        drawable="acryl_friendiqa"/>
+
+    <!-- Funkwhale -->
+    <item 
+        component="ComponentInfo{audio.funkwhale.ffa/audio.funkwhale.ffa.activities.SplashActivity}" 
+        drawable="acryl_funkwhale"/>
+
+    <!-- Giant Stopwatch -->
+    <item 
+        component="ComponentInfo{omegacentauri.mobi.simplestopwatch/omegacentauri.mobi.simplestopwatch.StopWatch}" 
+        drawable="acryl_giantstopwatch"/>
+
+    <!-- Guerrilla Mail -->
+    <item 
+        component="ComponentInfo{cf.theonewiththebraid.guerrilla_mail/cf.theonewiththebraid.guerrilla_mail.MainActivity}" 
+        drawable="acryl_guerrillamail"/>
+    
+    <!-- GymRoutines -->
+    <item 
+        component="ComponentInfo{com.noahjutz.gymroutines/com.noahjutz.gymroutines.ui.MainActivity}" 
+        drawable="acryl_gymroutines"/>
+
+    <!-- Home Assistant -->
+    <item 
+        component="ComponentInfo{io.homeassistant.companion.android.minimal/io.homeassistant.companion.android.launch.LaunchActivity}" 
+        drawable="acryl_homeassistant"/>
+
+    <!-- Just Player -->
+    <item 
+        component="ComponentInfo{com.brouken.player/com.brouken.player.PlayerActivity}" 
+        drawable="acryl_justplayer"/>
+
+    <!-- Lass es! -->
+    <item 
+        component="ComponentInfo{rocks.poopjournal.todont/rocks.poopjournal.todont.Splash_Screen}" 
+        drawable="acryl_lasses"/>
+
+    <!-- Museum einer kaputten API -->
+    <item 
+        component="ComponentInfo{godau.fynn.usagedirect.system/godau.fynn.usagedirect.activity.SourceAppUsageStatisticsActivity}" 
+        drawable="acryl_museumeinerkaputtenapi"/>
+
+    <!-- Nabla -->
+    <item 
+        component="ComponentInfo{com.ph.nabla_typemath/com.ph.nabla_typemath.MainActivity}" 
+        drawable="acryl_nabla"/>
+
+    <!-- OpenRec -->
+    <item 
+        component="ComponentInfo{com.openrec/com.openrec.activities.MainActivity}" 
+        drawable="acryl_openrec"/>
+
+    <!-- OPMT -->
+    <item 
+        component="ComponentInfo{one.scarecrow.games.OPMT/one.scarecrow.games.OPMT.MainMenu}" 
+        drawable="acryl_opmt"/>
+
+    <!-- oRing - Reminder -->
+    <item 
+        component="ComponentInfo{com.lubenard.oring_reminder/com.lubenard.oring_reminder.MainActivity}" 
+        drawable="acryl_oring-reminder"/>
+
+    <!-- Peercoin -->
+    <item 
+        component="ComponentInfo{com.coinerella.peercoin/io.flutter.embedding.android.FlutterActivity}" 
+        drawable="acryl_peercoin"/>
+
+    <!-- Pushie -->
+    <item 
+        component="ComponentInfo{com.chesire.pushie/com.chesire.pushie.MainActivity}" 
+        drawable="acryl_pushie"/>
+
+    <!-- Remote Numpad -->
+    <item 
+        component="ComponentInfo{com.guillaumepayet.remotenumpad/com.guillaumepayet.remotenumpad.NumpadActivity}" 
+        drawable="acryl_remotenumpad"/>
+
+    <!-- SelfPrivacy -->
+    <item 
+        component="ComponentInfo{pro.kherel.selfprivacy/pro.kherel.selfprivacy.MainActivity}" 
+        drawable="acryl_selfprivacy"/>
+
+    <!-- Silectric -->
+    <item 
+        component="ComponentInfo{net.alaindonesia.silectric/net.alaindonesia.silectric.MainActivity}" 
+        drawable="acryl_silectric"/>
+
+    <!-- Spannungsfall-Rechner -->
+    <item 
+        component="ComponentInfo{com.vonglasow.michael.voltagedrop/com.vonglasow.michael.voltagedrop.VoltageDropUi}" 
+        drawable="acryl_spannungsfall-rechner"/>
+
+    <!-- Subtracks -->
+    <item 
+        component="ComponentInfo{com.subtracks/com.subtracks.MainActivity}" 
+        drawable="acryl_subtracks"/>
+
+    <!-- tFileTransfer -->
+    <item 
+        component="ComponentInfo{com.tans.tfiletransporter/com.tans.tfiletransporter.ui.activity.connection.ConnectionActivity}" 
+        drawable="acryl_tfiletransfer"/>
+
+    <!-- Tickmate -->
+    <item 
+        component="ComponentInfo{de.smasi.tickmate/de.smasi.tickmate.Tickmate}" 
+        drawable="acryl_tickmate"/>
+
+    <!-- Timer +X -->
+    <item 
+        component="ComponentInfo{net.xisberto.timerpx/net.xisberto.timerpx.MainActivity}" 
+        drawable="acryl_timerx"/>
+
+    <!-- Trackbook -->
+    <item 
+        component="ComponentInfo{org.y20k.trackbook/org.y20k.trackbook.MainActivity}" 
+        drawable="acryl_trackbook"/>
+
+    <!-- URLSanitizer -->
+    <item 
+        component="ComponentInfo{moe.dic1911.urlsanitizer/moe.dic1911.urlsanitizer.MainActivity}" 
+        drawable="acryl_urlsanitizer"/>
+
+    <!-- usageDirect -->
+    <item 
+        component="ComponentInfo{godau.fynn.usagedirect/godau.fynn.usagedirect.activity.SourceAppUsageStatisticsActivity}" 
+        drawable="acryl_usagedirect"/>
+
+    <!-- WalletCount -->
+    <item 
+        component="ComponentInfo{com.lako.walletcount/com.lako.walletcount.MainActivity}" 
+        drawable="acryl_walletcount"/>
+
+    <!-- WeeklyBudget -->
+    <item 
+        component="ComponentInfo{com.cohenchris.weeklybudget/com.cohenchris.weeklybudget.MainActivity}" 
+        drawable="acryl_weeklybudget"/>
 </resources>

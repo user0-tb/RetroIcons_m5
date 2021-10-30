@@ -2,6 +2,10 @@
 
 fixes newpipe and tusky with borders<br>
 
+new: 40 icons<br>
+
+funkwhale, Friendica, Silectric, Timer +X, Remote Numpad, Workouts'N'Rest, SelfPrivacy, Home Assistant, Feeel, Arcticons Light, Arcticons Dark, GymRoutines, monocles browser, ShoppingList, usageDirect, Museum of a broken API, Todont, Exif Thumbnail Adder, oRing - Reminder, Voltage Drop Calculator, WalletCount, Giant Stopwatch, URLSanitizer, Subtracks, AVNC, Tickmate, WeeklyBudget, Guerrilla Mail, droidVNC-NG, nabla, tFileTransfer, just video player, openrec, opmt, fdroid nearby, peercoin, pushie, Delist, Trackbook and Aurora Droid
+
 ## Version 8
 
 fixes aTox -> atox

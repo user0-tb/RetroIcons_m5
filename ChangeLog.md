@@ -1,10 +1,13 @@
 ## Version 9
 
-fixes newpipe and tusky with borders<br>
-
 new: 40 icons<br>
 
-funkwhale, Friendica, Silectric, Timer +X, Remote Numpad, Workouts'N'Rest, SelfPrivacy, Home Assistant, Feeel, Arcticons Light, Arcticons Dark, GymRoutines, monocles browser, ShoppingList, usageDirect, Museum of a broken API, Todont, Exif Thumbnail Adder, oRing - Reminder, Voltage Drop Calculator, WalletCount, Giant Stopwatch, URLSanitizer, Subtracks, AVNC, Tickmate, WeeklyBudget, Guerrilla Mail, droidVNC-NG, nabla, tFileTransfer, just video player, openrec, opmt, fdroid nearby, peercoin, pushie, Delist, Trackbook and Aurora Droid
+Arcticons Dark, Arcticons Light, Aurora Droid, AVNC, droidVNC-NG,  Delist, Exif Thumbnail Adder,
+Feeel, Fdroid nearby, Funkwhale, Friendica, GymRoutines, Giant Stopwatch,  Guerrilla Mail, 
+Home Assistant,  Just Video Player, monocles browser, Museum of a broken API, nabla, 
+oRing - Reminder, opmt, openrec, peercoin, pushie, Remote Numpad, Silectric, SelfPrivacy,
+ShoppingList, Subtracks, Timer +X, Todont, Tickmate, tFileTransfer, Trackbook, usageDirect,
+URLSanitizer, Voltage Drop Calculator, WalletCount, WeeklyBudget amd Workouts'N'Rest
 
 ## Version 8
 

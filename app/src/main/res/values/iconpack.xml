@@ -263,5 +263,45 @@
         <item>acryl_voipmssms</item>
         <item>acryl_watomatic</item>
         <item>acryl_wlanscanner</item>
+        <item>acryl_arcticonsdark</item>
+        <item>acryl_arcticonslight</item>
+        <item>acryl_auroradroid</item>
+        <item>acryl_avnc</item>
+        <item>acryl_delist</item>
+        <item>acryl_droidvncng</item>
+        <item>acryl_exifthumbnailadder</item>
+        <item>acryl_fdroidnearby</item>
+        <item>acryl_feeel</item>
+        <item>acryl_friendiqa</item>
+        <item>acryl_funkwhale</item>
+        <item>acryl_giantstopwatch</item>
+        <item>acryl_guerrillamail</item>
+        <item>acryl_gymroutines</item>
+        <item>acryl_homeassistant</item>
+        <item>acryl_justvideoplayer</item>
+        <item>acryl_monoclesbrowser</item>
+        <item>acryl_museumofabrokenapi</item>
+        <item>acryl_nabla</item>
+        <item>acryl_openrec</item>
+        <item>acryl_opmt</item>
+        <item>acryl_oring</item>
+        <item>acryl_peercoin</item>
+        <item>acryl_pushie</item>
+        <item>acryl_remotenumpad</item>
+        <item>acryl_selfprivacy</item>
+        <item>acryl_shoppinglist</item>
+        <item>acryl_silectric</item>
+        <item>acryl_subtracks</item>
+        <item>acryl_tfiletransfer</item>
+        <item>acryl_tickmate</item>
+        <item>acryl_timerplusx</item>
+        <item>acryl_todont</item>
+        <item>acryl_trackbook</item>
+        <item>acryl_urlsanitizer</item>
+        <item>acryl_usageDirect</item>
+        <item>acryl_voltagedropcalculator</item>
+        <item>acryl_walletcount</item>
+        <item>acryl_weeklybudget</item>
+        <item>acryl_workoutsnrest</item>
     </string-array>
 </resources>

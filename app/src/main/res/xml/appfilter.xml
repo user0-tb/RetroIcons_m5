@@ -1332,7 +1332,6 @@
         component="ComponentInfo{org.bitbatzen.wlanscanner/org.bitbatzen.wlanscanner.MainActivity}" 
         drawable="acryl_wlanscanner"/>
 
-
     <!-- Arcticons Dark -->
     <item 
         component="ComponentInfo{com.donnnno.arcticons/com.donnnno.arcticons.activities.SplashActivity}" 
@@ -1353,25 +1352,25 @@
         component="ComponentInfo{com.gaurav.avnc/com.gaurav.avnc.StartupActivity}" 
         drawable="acryl_avnc"/>
 
-    <!-- browser -->
+    <!-- monoclesbrowser -->
     <item 
         component="ComponentInfo{de.monocles.browser/de.monocles.browser.activities.MainWebViewActivity}" 
-        drawable="acryl_browser"/>
+        drawable="acryl_monoclesbrowser"/>
 
     <!-- Delist -->
     <item 
         component="ComponentInfo{ca.ramzan.delist/ca.ramzan.delist.common.MainActivity}" 
         drawable="acryl_delist"/>
 
-    <!-- droidVNC-NG Admin Panel -->
+    <!-- droidVNC-NG -->
     <item 
         component="ComponentInfo{net.christianbeier.droidvnc_ng/net.christianbeier.droidvnc_ng.MainActivity}" 
-        drawable="acryl_droidvnc-ngadminpanel"/>
+        drawable="acryl_droidvncngl"/>
 
-    <!-- Einkaufsliste -->
+    <!-- shoppinglist -->
     <item 
         component="ComponentInfo{pl.edu.pjwstk.s999844.shoppinglist/pl.edu.pjwstk.s999844.shoppinglist.MainActivity}" 
-        drawable="acryl_einkaufsliste"/>
+        drawable="acryl_shoppinglist"/>
 
     <!-- Exif Thumbnail Adder -->
     <item 
@@ -1388,10 +1387,10 @@
         component="ComponentInfo{com.enjoyingfoss.feeel/io.flutter.embedding.android.FlutterActivity}" 
         drawable="acryl_feeel"/>
 
-    <!-- Fites Training schnell -->
+    <!-- workoutsnrest -->
     <item 
         component="ComponentInfo{com.fitworkoutfast/com.fitworkoutfast.MainActivity}" 
-        drawable="acryl_fitestrainingschnell"/>
+        drawable="acryl_workoutsnrest"/>
 
     <!-- Friendiqa -->
     <item 
@@ -1423,20 +1422,20 @@
         component="ComponentInfo{io.homeassistant.companion.android.minimal/io.homeassistant.companion.android.launch.LaunchActivity}" 
         drawable="acryl_homeassistant"/>
 
-    <!-- Just Player -->
+    <!-- justvideoplayer -->
     <item 
         component="ComponentInfo{com.brouken.player/com.brouken.player.PlayerActivity}" 
-        drawable="acryl_justplayer"/>
+        drawable="acryl_justvideoplayer"/>
 
-    <!-- Lass es! -->
+    <!-- todont! -->
     <item 
         component="ComponentInfo{rocks.poopjournal.todont/rocks.poopjournal.todont.Splash_Screen}" 
-        drawable="acryl_lasses"/>
+        drawable="acryl_todont"/>
 
-    <!-- Museum einer kaputten API -->
+    <!-- museumofabrokenapi -->
     <item 
         component="ComponentInfo{godau.fynn.usagedirect.system/godau.fynn.usagedirect.activity.SourceAppUsageStatisticsActivity}" 
-        drawable="acryl_museumeinerkaputtenapi"/>
+        drawable="acryl_museumofabrokenapi"/>
 
     <!-- Nabla -->
     <item 
@@ -1456,7 +1455,7 @@
     <!-- oRing - Reminder -->
     <item 
         component="ComponentInfo{com.lubenard.oring_reminder/com.lubenard.oring_reminder.MainActivity}" 
-        drawable="acryl_oring-reminder"/>
+        drawable="acryl_oring"/>
 
     <!-- Peercoin -->
     <item 
@@ -1483,10 +1482,10 @@
         component="ComponentInfo{net.alaindonesia.silectric/net.alaindonesia.silectric.MainActivity}" 
         drawable="acryl_silectric"/>
 
-    <!-- Spannungsfall-Rechner -->
+    <!-- voltagedropcalculator -->
     <item 
         component="ComponentInfo{com.vonglasow.michael.voltagedrop/com.vonglasow.michael.voltagedrop.VoltageDropUi}" 
-        drawable="acryl_spannungsfall-rechner"/>
+        drawable="acryl_voltagedropcalculator"/>
 
     <!-- Subtracks -->
     <item 
@@ -1503,10 +1502,10 @@
         component="ComponentInfo{de.smasi.tickmate/de.smasi.tickmate.Tickmate}" 
         drawable="acryl_tickmate"/>
 
-    <!-- Timer +X -->
+    <!-- timerplusx -->
     <item 
         component="ComponentInfo{net.xisberto.timerpx/net.xisberto.timerpx.MainActivity}" 
-        drawable="acryl_timerx"/>
+        drawable="acryl_timerplusx"/>
 
     <!-- Trackbook -->
     <item 

@@ -1,3 +1,7 @@
+## Version 10
+
+fixes usageDirect -> usagedirect
+
 ## Version 9
 
 new: 40 icons<br>

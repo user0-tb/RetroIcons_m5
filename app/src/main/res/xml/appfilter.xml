@@ -919,7 +919,7 @@
     
     <!-- Zapp -->
     <item 
-        component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.MainActivity}" 
+        component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.main.MainActivity}"  
         drawable="acryl_zapp"/>
 
     <!-- Zim Launcher -->

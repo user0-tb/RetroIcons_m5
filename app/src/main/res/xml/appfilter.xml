@@ -1198,8 +1198,8 @@
         drawable="acryl_posidonlauncher"/>
 
     <!-- PowerTunnel -->
-    <item 
-        component="ComponentInfo{ru.krlvm.powertunnel.android/ru.krlvm.powertunnel.android.MainActivity}" 
+    <item
+        component="ComponentInfo{io.github.krlvm.powertunnel.android/io.github.krlvm.powertunnel.android.activities.SplashActivity}"
         drawable="acryl_powertunnel"/>
 
     <!-- Pro Expense -->

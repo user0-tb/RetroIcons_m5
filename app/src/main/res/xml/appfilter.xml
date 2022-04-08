@@ -905,7 +905,7 @@
     <!-- WiFiAnalyzer -->
     <item 
         component="ComponentInfo{com.vrem.wifianalyzer/com.vrem.wifianalyzer.SplashActivity}" 
-        drawable="acreyl_wifianalyzer"/>
+        drawable="acryl_wifianalyzer"/>
     
     <!-- X11-Basic -->
     <item 
@@ -1365,7 +1365,7 @@
     <!-- droidVNC-NG -->
     <item 
         component="ComponentInfo{net.christianbeier.droidvnc_ng/net.christianbeier.droidvnc_ng.MainActivity}" 
-        drawable="acryl_droidvncngl"/>
+        drawable="acryl_droidvncng"/>
 
     <!-- shoppinglist -->
     <item 

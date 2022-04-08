@@ -1,0 +1,21 @@
+---
+pipeline:
+  optimize-icons:
+    image: alpine
+    commands:
+      - apk add imagemagick
+      - ./build_icons.sh
+  push-optimized-images:
+    image: appleboy/drone-git-push
+    settings:
+      branch: "${CI_COMMIT_BRANCH}"
+      remote: "git@codeberg.org:${CI_REPO}"
+      commit: true
+      commit_message: "[skip ci] Optimize icons"
+      ssh_key:
+        from_secret: git_push_key
+  sanity-check:
+    image: python:3
+    commands:
+      - pip3 install requests
+      - python3 sanity_check.py

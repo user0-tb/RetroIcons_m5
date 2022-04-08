@@ -3,4 +3,5 @@ pipeline:
   sanity-test:
     image: python:3
     commands:
+      - pip3 install requests
       - python3 sanity_check.py

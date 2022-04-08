@@ -1,17 +1,21 @@
 ---
 pipeline:
+  generate-iconpack:
+    image: alpine
+    commands:
+      - ./scripts/generate_iconpack.sh
   optimize-icons:
     image: alpine
     commands:
       - apk add imagemagick
-      - ./build_icons.sh
-  push-optimized-images:
+      - ./scripts/optimize_icons.sh
+  push-generated-data:
     image: appleboy/drone-git-push
     settings:
       branch: "${CI_COMMIT_BRANCH}"
       remote: "git@codeberg.org:${CI_REPO}"
       commit: true
-      commit_message: "[skip ci] Optimize icons"
+      commit_message: "[skip ci] Ran scripts"
       ssh_key:
         from_secret: git_push_key
   sanity-check:

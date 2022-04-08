@@ -81,7 +81,7 @@ for item in items:
         activity_name = component_data.group(2)
 
         if not check_package_fdroid(package_name) and not check_package_izzyondroid(package_name):
-            print(f"[ERROR] Could not find {package_name} on either F-Droid or IzzyOnDroid")
+            print(f"[WARNING] Could not find {package_name} on either F-Droid or IzzyOnDroid")
             warnings += 1
             continue
 

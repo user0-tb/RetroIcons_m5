@@ -1,0 +1,6 @@
+---
+pipeline:
+  sanity-test:
+    image: python:3
+    commands:
+      - python3 sanity_check.py

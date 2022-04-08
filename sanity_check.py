@@ -20,11 +20,14 @@ print("Checking appfilter.xml...")
 tree = ET.parse(os.path.join(XML_ROOT, 'appfilter.xml'))
 items = tree.getroot()
 
+
 def check_drawable_name(drawable_name):
     return drawable_name.startswith("acryl_")
 
+
 def check_drawable_exists(drawable_name):
     return os.path.isfile(os.path.join(DRAWABLE_ROOT, f"{drawable_name}.jpg"))
+
 
 def check_drawable_iconpack(drawable_name):
     for icon in ET.parse(ICONPACK_PATH).getroot()[0]:
@@ -33,11 +36,14 @@ def check_drawable_iconpack(drawable_name):
 
     return False
 
+
 def check_package_fdroid(package_name):
     return requests.get(f"https://gitlab.com/fdroid/fdroiddata/-/raw/master/metadata/{ package_name }.yml").status_code == 200
 
+
 def check_package_izzyondroid(package_name):
     return requests.get(f"https://apt.izzysoft.de/fdroid/index/apk/{ package_name }").status_code == 200 
+
 
 # First, check all icons (because no web request needed)
 for item in items:
@@ -59,7 +65,7 @@ for item in items:
             continue
 
 if errors > 0:
-    print(f"[FATAL] One or more broken icons found. Fix them first, then run the script again to check packages.")
+    print("[FATAL] One or more broken icons found. Fix them first, then run the script again to check packages.")
     exit(1)
 
 for item in items:

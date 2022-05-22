@@ -20,6 +20,12 @@ print("Checking appfilter.xml...")
 tree = ET.parse(os.path.join(XML_ROOT, 'appfilter.xml'))
 items = tree.getroot()
 
+ignore_filename = 'sanity_check_ignored.txt'
+ignored_items = []
+with open(ignore_filename) as f:
+    for line in f:
+        ignored_items.append(line.strip())
+
 
 def check_drawable_name(drawable_name):
     return drawable_name.startswith("acryl_")
@@ -80,6 +86,10 @@ for item in items:
         package_name = component_data.group(1)
         activity_name = component_data.group(2)
 
+        if package_name in ignored_items:
+            print(f"[NOTE] Skipped {package_name} because it is in {ignore_filename}")
+            continue
+
         if not check_package_fdroid(package_name) and not check_package_izzyondroid(package_name):
             print(f"[WARNING] Could not find {package_name} on either F-Droid or IzzyOnDroid")
             warnings += 1
@@ -87,3 +97,6 @@ for item in items:
 
 print(f"Found {errors} errors and {warnings} warnings.")
 print("Please remember this script can't find every error!")
+
+if errors > 0 or warnings > 0:
+    exit(1)

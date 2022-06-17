@@ -1,3 +1,5 @@
+[![Sanity checks status](https://ci.codeberg.org/api/badges/mondstern/AndroidAcrylicIconPack/status.svg)](https://ci.codeberg.org/mondstern/AndroidAcrylicIconPack/branches/main)
+
 # Mondstern Acrylic Icons
 
 A very simple icon pack of Mondstern's Acrylic icons.

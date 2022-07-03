@@ -174,7 +174,7 @@
 
     <!-- Der Die Das -->
     <item 
-        component="ComponentInfo{com.spitslide.derdiedas/com.spitslide.derdiedas.ui.MainActivity}" 
+        component="ComponentInfo{com.machiav3lli.derdiedas/com.machiav3lli.derdiedas.ui.MainActivity}" 
         drawable="acryl_derdiedas"/>
 
     <!-- DeuFeiTage -->

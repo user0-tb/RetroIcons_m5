@@ -23,3 +23,8 @@ pipeline:
     commands:
       - pip3 install requests
       - python3 sanity_check.py
+  version-check:
+    image: alpine
+    commands:
+      - apk add bash curl jq
+      - bash version_check.sh

@@ -258,9 +258,9 @@
         drawable="acryl_fedilab"/>
     
     <!-- Feeder -->
-    <item 
-        component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}" 
-        drawable="acryl_feeder"/>
+    <item
+        component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity}"
+        drawable="acryl_feeder"/>        
     
     <!-- FiSSH -->
     <item 
@@ -313,9 +313,9 @@
         drawable="acryl_gitnex"/>
     
     <!-- Green -->
-    <item 
-        component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.greenaddress.greenbits.ui.authentication.PinActivity}" 
-        drawable="acryl_greenbitcoinwallet"/>
+    <item
+        component="ComponentInfo{com.greenaddress.greenbits_android_wallet/com.blockstream.green.ui.MainActivity}"
+        drawable="acryl_green"/>        
     
     <!-- Home -->
     <item 
@@ -553,9 +553,9 @@
         drawable="acryl_odeon"/>
 
     <!-- Öffi Haltestellen -->
-    <item 
-        component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}" 
-        drawable="acryl_oeffi"/>
+    <item
+        component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}"
+        drawable="acryl_oeffi"/>        
 
     <!-- OpenContacts -->
     <item 
@@ -1457,10 +1457,10 @@
         component="ComponentInfo{com.lubenard.oring_reminder/com.lubenard.oring_reminder.MainActivity}" 
         drawable="acryl_oring"/>
 
-    <!-- Peercoin -->
-    <item 
-        component="ComponentInfo{com.coinerella.peercoin/io.flutter.embedding.android.FlutterActivity}" 
-        drawable="acryl_peercoin"/>
+     <!-- Peercoin -->
+    <item
+        component="ComponentInfo{com.coinerella.peercoin/com.coinerella.peercoin.MainActivity}"
+        drawable="acryl_peercoin"/>        
 
     <!-- Pushie -->
     <item 
@@ -1470,7 +1470,7 @@
     <!-- Remote Numpad -->
     <item 
         component="ComponentInfo{com.guillaumepayet.remotenumpad/com.guillaumepayet.remotenumpad.NumpadActivity}" 
-        drawable="acryl_remotenumpad"/>
+        drawable="acryl_remotenumpad"/>     
 
     <!-- SelfPrivacy -->
     <item 

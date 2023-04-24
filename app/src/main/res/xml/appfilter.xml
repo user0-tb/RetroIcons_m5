@@ -717,7 +717,7 @@
         component="ComponentInfo{eu.droogers.smsmatrix/eu.droogers.smsmatrix.MainActivity}" 
         drawable="acryl_smsmatrix"/>
 
-    <!-- Street­Complete -->
+    <!-- StreetComplete -->
     <item 
         component="ComponentInfo{de.westnordost.streetcomplete/de.westnordost.streetcomplete.MainActivity}" 
         drawable="acryl_streetcomplete"/>

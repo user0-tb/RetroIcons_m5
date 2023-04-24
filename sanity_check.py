@@ -9,20 +9,20 @@ except ImportError as error:
 
 RES_ROOT = os.path.join('app', 'src', 'main', 'res')
 XML_ROOT = os.path.join(RES_ROOT, 'xml')
+APPFILTER_PATH = os.path.join(XML_ROOT, 'appfilter.xml')
 DRAWABLE_ROOT = os.path.join(RES_ROOT, 'drawable')
 ICONPACK_PATH = os.path.join(RES_ROOT, 'values', 'iconpack.xml')
+IGNORE_FILENAME = 'sanity_check_ignored.txt'
 
 errors = 0
-warnings = 0
 
-print("Checking appfilter.xml...")
+print(f"Checking {APPFILTER_PATH}...")
 
-tree = ET.parse(os.path.join(XML_ROOT, 'appfilter.xml'))
+tree = ET.parse(APPFILTER_PATH)
 items = tree.getroot()
 
-ignore_filename = 'sanity_check_ignored.txt'
 ignored_items = []
-with open(ignore_filename) as f:
+with open(IGNORE_FILENAME) as f:
     for line in f:
         ignored_items.append(line.strip())
 
@@ -56,7 +56,7 @@ for item in items:
     if item.tag == 'item':
         drawable_name = item.attrib['drawable']
         if not check_drawable_name(drawable_name):
-            print(f"[ERROR] {drawable_name} should start with acryl_ but it doesn't!")
+            print(f"[ERROR] {drawable_name} should start with acryl_ but it doesn't! Check {APPFILTER_PATH}!")
             errors += 1
             continue
 
@@ -79,7 +79,7 @@ for item in items:
         component = item.attrib['component']
         component_data = re.search(r"ComponentInfo{(.*)/(.*)}", component)
         if len(component_data.groups()) != 2:
-            print(f"[ERROR] Component value {component} does not seem to be formatted correctly!")
+            print(f"[ERROR] Component value {component} does not seem to be formatted correctly! Check {APPFILTER_PATH}!")
             errors += 1
             continue
 
@@ -87,16 +87,16 @@ for item in items:
         activity_name = component_data.group(2)
 
         if package_name in ignored_items:
-            print(f"[NOTE] Skipped {package_name} because it is in {ignore_filename}")
+            print(f"[NOTE] Skipped {package_name} because it is in {IGNORE_FILENAME}.")
             continue
 
         if not check_package_fdroid(package_name) and not check_package_izzyondroid(package_name):
-            print(f"[WARNING] Could not find {package_name} on either F-Droid or IzzyOnDroid")
-            warnings += 1
+            print(f"[ERROR] Could not find {package_name} on either F-Droid or IzzyOnDroid. Fix the package name in {APPFILTER_PATH} or add it to {IGNORE_FILENAME} if you're sure the name is correct.")
+            errors += 1
             continue
 
-print(f"Found {errors} errors and {warnings} warnings.")
+print(f"Found {errors} errors.")
 print("Please remember this script can't find every error!")
 
-if errors > 0 or warnings > 0:
+if errors > 0:
     exit(1)

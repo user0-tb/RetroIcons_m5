@@ -1189,8 +1189,9 @@
 
     <!-- PixelDroid -->
     <item 
-        component="ComponentInfo{com.h.pixeldroid/com.h.pixeldroid.MainActivity}" 
+        component="ComponentInfo{org.pixeldroid.app/org.pixeldroid.app.MainActivity}" 
         drawable="acryl_pixeldroid"/>
+
 
     <!-- posidon launcher -->
     <item 

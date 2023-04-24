@@ -1601,5 +1601,5 @@
     <!-- wger -->
     <item 
         component="ComponentInfo{de.wger.flutter/de.wger.flutter.MainActivity}" 
-        drawable=" acryl_wger"/>
+        drawable="acryl_wger"/>
 </resources>

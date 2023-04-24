@@ -4,6 +4,7 @@
     <item>acryl_1list</item>
     <item>acryl_2playerbattle</item>
     <item>acryl_9p</item>
+    <item>acryl_Ruslin</item>
     <item>acryl_acode</item>
     <item>acryl_acrylicicons</item>
     <item>acryl_aegis</item>
@@ -101,10 +102,13 @@
     <item>acryl_geonotes</item>
     <item>acryl_giantstopwatch</item>
     <item>acryl_gitnex</item>
+    <item>acryl_godoteditor</item>
+    <item>acryl_graphhoppermaps</item>
     <item>acryl_green</item>
     <item>acryl_grocyandroid</item>
     <item>acryl_guerrillamail</item>
     <item>acryl_gymroutines</item>
+    <item>acryl_heartest</item>
     <item>acryl_homeapp2</item>
     <item>acryl_homeassistant</item>
     <item>acryl_homebot</item>
@@ -145,6 +149,7 @@
     <item>acryl_metro</item>
     <item>acryl_midictrl</item>
     <item>acryl_mifareclassictool</item>
+    <item>acryl_miniflutt</item>
     <item>acryl_minivector</item>
     <item>acryl_mobilizon</item>
     <item>acryl_monerujo</item>
@@ -156,6 +161,7 @@
     <item>acryl_museumofabrokenapi</item>
     <item>acryl_music</item>
     <item>acryl_musicalnotes</item>
+    <item>acryl_mutereminder</item>
     <item>acryl_nabla</item>
     <item>acryl_newpipe</item>
     <item>acryl_nextcloud</item>
@@ -177,12 +183,14 @@
     <item>acryl_oeffi</item>
     <item>acryl_okcagent</item>
     <item>acryl_opencamera</item>
+    <item>acryl_opencanteen</item>
     <item>acryl_opencontacts</item>
     <item>acryl_opendnsupdater</item>
     <item>acryl_openhab</item>
     <item>acryl_openlauncher</item>
     <item>acryl_openmaps</item>
     <item>acryl_openmensa</item>
+    <item>acryl_openreads</item>
     <item>acryl_openrec</item>
     <item>acryl_openscale</item>
     <item>acryl_opentodolist</item>
@@ -193,6 +201,7 @@
     <item>acryl_osmdashboard</item>
     <item>acryl_osmdashboardoffline</item>
     <item>acryl_p2play</item>
+    <item>acryl_parlera</item>
     <item>acryl_pcapdroid</item>
     <item>acryl_peercoin</item>
     <item>acryl_pep</item>
@@ -223,6 +232,7 @@
     <item>acryl_sdbviewer</item>
     <item>acryl_selfprivacy</item>
     <item>acryl_sentienlauncher</item>
+    <item>acryl_seshat</item>
     <item>acryl_shadelauncher</item>
     <item>acryl_shadowsocksfoss</item>
     <item>acryl_sharetoinputstick</item>
@@ -297,7 +307,9 @@
     <item>acryl_walletcount</item>
     <item>acryl_wanidoku</item>
     <item>acryl_watomatic</item>
+    <item>acryl_weather</item>
     <item>acryl_weeklybudget</item>
+    <item>acryl_wger</item>
     <item>acryl_wifianalyzer</item>
     <item>acryl_wifiinfo</item>
     <item>acryl_wlanscanner</item>

@@ -1531,4 +1531,75 @@
     <item 
         component="ComponentInfo{com.cohenchris.weeklybudget/com.cohenchris.weeklybudget.MainActivity}" 
         drawable="acryl_weeklybudget"/>
+
+
+    <!-- ANOTHERpass -->
+    <item 
+        component="ComponentInfo{de.jepfa.yapm/de.jepfa.yapm.ui.credential.ListCredentialsActivity}" 
+        drawable="acryl_anotherpass"/>
+
+    <!-- Diaguard -->
+    <item 
+        component="ComponentInfo{com.faltenreich.diaguard/com.faltenreich.diaguard.feature.navigation.MainActivity}" 
+        drawable="acryl_diaguard"/>
+
+    <!-- drip -->
+    <item 
+        component="ComponentInfo{com.drip/com.drip.MainActivity}" 
+        drawable="acryl_drip"/>
+
+    <!-- Falling Blocks -->
+    <item 
+        component="ComponentInfo{org.sajeg.fallingblocks/com.godot.game.GodotApp}" 
+        drawable="acryl_fallingblocks"/>
+
+    <!-- GraphHopper Maps -->
+    <item 
+        component="ComponentInfo{com.graphhopper.maps/com.graphhopper.maps.MainActivity}" 
+        drawable="acryl_graphhoppermaps"/>
+
+    <!-- hEARtest -->
+    <item 
+        component="ComponentInfo{org.woheller69.audiometry/org.woheller69.audiometry.MainActivity}" 
+        drawable="acryl_heartest"/>
+
+    <!-- Mute Reminder -->
+    <item 
+        component="ComponentInfo{com.github.muellerma.mute_reminder/com.github.muellerma.mute_reminder.MainActivity}" 
+        drawable="acryl_mutereminder"/>
+
+    <!-- OpenCanteen -->
+    <item 
+        component="ComponentInfo{cz.hernikplays.opencanteen/cz.hernikplays.opencanteen.MainActivity}" 
+        drawable="acryl_opencanteen"/>
+
+    <!-- Openreads -->
+    <item 
+        component="ComponentInfo{software.mdev.bookstracker/software.mdev.bookstracker.MainActivity}" 
+        drawable="acryl_openreads"/>
+
+    <!-- Parlera -->
+    <item 
+        component="ComponentInfo{com.enjoyingfoss.parlera/io.flutter.embedding.android.FlutterActivity}" 
+        drawable="acryl_parlera"/>
+
+    <!-- Ruslin -->
+    <item 
+        component="ComponentInfo{org.dianqk.ruslin/org.dianqk.ruslin.MainActivity}" 
+        drawable="acryl_ruslin"/>
+
+    <!-- Seshat -->
+    <item 
+        component="ComponentInfo{org.biotstoiq.seshat/org.biotstoiq.seshat.MainActivity}" 
+        drawable="acryl_seshat"/>
+
+    <!-- Wetter -->
+    <item 
+        component="ComponentInfo{de.beowulf.wetter/de.beowulf.wetter.activities.LaunchActivity}" 
+        drawable="acryl_weather"/>
+
+    <!-- wger -->
+    <item 
+        component="ComponentInfo{de.wger.flutter/de.wger.flutter.MainActivity}" 
+        drawable=" acryl_wger"/>
 </resources>

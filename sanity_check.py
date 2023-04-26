@@ -27,12 +27,20 @@ with open(IGNORE_FILENAME) as f:
         ignored_items.append(line.strip())
 
 
-def check_drawable_name(drawable_name):
-    return drawable_name.startswith("acryl_")
+def get_drawable_error(drawable_name):
+    if not drawable_name.startswith("acryl_"):
+        return f"{drawable_name} should start with acryl_ but it doesn't! Check {APPFILTER_PATH}!"
 
+    if not re.match(r"^[a-z0-9_]*$", drawable_name):
+        return f"{drawable_name} contains invalid characters, only a-z (lowercase), 0-9 and _ are allowed! Check {APPFILTER_PATH}!"
 
-def check_drawable_exists(drawable_name):
-    return os.path.isfile(os.path.join(DRAWABLE_ROOT, f"{drawable_name}.jpg"))
+    if not os.path.isfile(os.path.join(DRAWABLE_ROOT, f"{drawable_name}.jpg")):
+        return f"{drawable_name}.jpg doesn't exist in {DRAWABLE_ROOT}!"
+
+    if not check_drawable_iconpack(drawable_name):
+        return f"{drawable_name} doesn't exist in {ICONPACK_PATH}!"
+
+    return None
 
 
 def check_drawable_iconpack(drawable_name):
@@ -55,20 +63,10 @@ def check_package_izzyondroid(package_name):
 for item in items:
     if item.tag == 'item':
         drawable_name = item.attrib['drawable']
-        if not check_drawable_name(drawable_name):
-            print(f"[ERROR] {drawable_name} should start with acryl_ but it doesn't! Check {APPFILTER_PATH}!")
+        drawable_error = get_drawable_error(drawable_name)
+        if get_drawable_error(drawable_name):
+            print(f"[ERROR] {drawable_error}")
             errors += 1
-            continue
-
-        if not check_drawable_exists(drawable_name):
-            print(f"[ERROR] {drawable_name}.jpg doesn't exist in {DRAWABLE_ROOT}!")
-            errors += 1
-            continue
-
-        if not check_drawable_iconpack(drawable_name):
-            print(f"[ERROR] {drawable_name} doesn't exist in {ICONPACK_PATH}!")
-            errors += 1
-            continue
 
 if errors > 0:
     print("[FATAL] One or more broken icons found. Fix them first, then run the script again to check packages.")

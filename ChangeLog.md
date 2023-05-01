@@ -1,3 +1,21 @@
+## Version 13
+
+fixes: Ruslin -> ruslin
+
+## Version 12
+
+with: Codeberg CI
+
+changed: package name of Pixeldroid
+
+new: Diaguard, Openreads, mute reminder, ruslin, falling blocks, open canteen, drip, parlera, graphhopper, seshat, wger, weather, heartest and anotherpass
+
+## Version 11
+
+new: Codeberg CI
+
+changed: package name of derdiedas
+
 ## Version 10
 
 fixes usageDirect -> usagedirect

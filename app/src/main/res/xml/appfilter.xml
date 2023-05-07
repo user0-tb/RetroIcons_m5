@@ -604,7 +604,7 @@
 
     <!-- OpenTracks -->
     <item 
-        component="ComponentInfo{de.dennisguse.opentracks/de.dennisguse.opentracks.TrackListActivity}" 
+        component="ComponentInfo{de.dennisguse.opentracks/de.dennisguse.opentracks.introduction.IntroductionActivity}" 
         drawable="acryl_opentracks"/>
 
     <!-- OsmAnd~ -->

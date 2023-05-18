@@ -292,6 +292,7 @@
     <item>acryl_tempusromanum</item>
     <item>acryl_termbin</item>
     <item>acryl_termux</item>
+    <item>acryl_termuxgui</item>
     <item>acryl_texttorch</item>
     <item>acryl_tfiletransfer</item>
     <item>acryl_tickmate</item>
@@ -322,6 +323,7 @@
     <item>acryl_ulogger</item>
     <item>acryl_unitconverterultimate</item>
     <item>acryl_unstoppable</item>
+    <item>acryl_urlcheck</item>
     <item>acryl_urlsanitizer</item>
     <item>acryl_usagedirect</item>
     <item>acryl_vanillamusic</item>
@@ -329,13 +331,16 @@
     <item>acryl_vertretungsplan</item>
     <item>acryl_vespucci</item>
     <item>acryl_vocabletrainer</item>
+    <item>acryl_voiceaudiobookplayer</item>
     <item>acryl_voipmssms</item>
     <item>acryl_voltagedropcalculator</item>
     <item>acryl_volumecontrol</item>
     <item>acryl_volumenotification</item>
     <item>acryl_wakelock</item>
+    <item>acryl_wakeonlan</item>
     <item>acryl_walletcount</item>
     <item>acryl_wanidoku</item>
+    <item>acryl_waterme</item>
     <item>acryl_watomatic</item>
     <item>acryl_weather</item>
     <item>acryl_weeklybudget</item>

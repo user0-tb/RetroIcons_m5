@@ -78,6 +78,7 @@
     <item>acryl_element</item>
     <item>acryl_elementary</item>
     <item>acryl_emeraldialer</item>
+    <item>acryl_energize</item>
     <item>acryl_enrecipes</item>
     <item>acryl_ente</item>
     <item>acryl_eprssreader</item>
@@ -97,14 +98,17 @@
     <item>acryl_fedilab</item>
     <item>acryl_feeder</item>
     <item>acryl_feeel</item>
+    <item>acryl_fertilitytestanalyzer</item>
     <item>acryl_fissh</item>
     <item>acryl_fitotrack</item>
     <item>acryl_flashy</item>
     <item>acryl_florisboard</item>
     <item>acryl_flym</item>
+    <item>acryl_focuslauncher</item>
     <item>acryl_forecastie</item>
     <item>acryl_forrunners</item>
     <item>acryl_friendiqa</item>
+    <item>acryl_ftpclient</item>
     <item>acryl_fullcolemak</item>
     <item>acryl_funkwhale</item>
     <item>acryl_fyreplace</item>
@@ -117,6 +121,8 @@
     <item>acryl_grocyandroid</item>
     <item>acryl_guerrillamail</item>
     <item>acryl_gymroutines</item>
+    <item>acryl_habo</item>
+    <item>acryl_halfdot</item>
     <item>acryl_heartest</item>
     <item>acryl_homeapp2</item>
     <item>acryl_homeassistant</item>
@@ -127,6 +133,7 @@
     <item>acryl_hypezig</item>
     <item>acryl_imagepipe</item>
     <item>acryl_imgurviewer</item>
+    <item>acryl_innertune</item>
     <item>acryl_instalate</item>
     <item>acryl_jiofibatterynotifier</item>
     <item>acryl_joplin</item>
@@ -154,6 +161,7 @@
     <item>acryl_materialfiles</item>
     <item>acryl_medilog</item>
     <item>acryl_memory</item>
+    <item>acryl_meshtastic</item>
     <item>acryl_metagersuche</item>
     <item>acryl_metro</item>
     <item>acryl_midictrl</item>
@@ -167,11 +175,13 @@
     <item>acryl_monoclesbrowser</item>
     <item>acryl_morse</item>
     <item>acryl_movim</item>
+    <item>acryl_mucke</item>
     <item>acryl_museumofabrokenapi</item>
     <item>acryl_music</item>
     <item>acryl_musicalnotes</item>
     <item>acryl_mutereminder</item>
     <item>acryl_nabla</item>
+    <item>acryl_neutriNote ce</item>
     <item>acryl_newpipe</item>
     <item>acryl_nextcloud</item>
     <item>acryl_nextcloudbookmarks</item>
@@ -191,6 +201,7 @@
     <item>acryl_odeon</item>
     <item>acryl_oeffi</item>
     <item>acryl_okcagent</item>
+    <item>acryl_opencalc</item>
     <item>acryl_opencamera</item>
     <item>acryl_opencanteen</item>
     <item>acryl_opencontacts</item>
@@ -202,6 +213,7 @@
     <item>acryl_openreads</item>
     <item>acryl_openrec</item>
     <item>acryl_openscale</item>
+    <item>acryl_openstop</item>
     <item>acryl_opentodolist</item>
     <item>acryl_opentracks</item>
     <item>acryl_opmt</item>
@@ -209,6 +221,7 @@
     <item>acryl_osmand</item>
     <item>acryl_osmdashboard</item>
     <item>acryl_osmdashboardoffline</item>
+    <item>acryl_ossweather</item>
     <item>acryl_p2play</item>
     <item>acryl_parlera</item>
     <item>acryl_pcapdroid</item>
@@ -218,6 +231,7 @@
     <item>acryl_photok</item>
     <item>acryl_piwigo</item>
     <item>acryl_pixeldroid</item>
+    <item>acryl_plainapp</item>
     <item>acryl_posidonlauncher</item>
     <item>acryl_postwriter</item>
     <item>acryl_potatoprojectnotes</item>
@@ -226,6 +240,7 @@
     <item>acryl_pslab</item>
     <item>acryl_pulsemusic</item>
     <item>acryl_pushie</item>
+    <item>acryl_quoteunquote</item>
     <item>acryl_railwaystationphotos</item>
     <item>acryl_raisetoanswer</item>
     <item>acryl_rechnen</item>
@@ -233,10 +248,13 @@
     <item>acryl_remotenumpad</item>
     <item>acryl_retro</item>
     <item>acryl_riot</item>
+    <item>acryl_rootlessjamesdsp</item>
     <item>acryl_runner</item>
     <item>acryl_ruslin</item>
     <item>acryl_rxdroid</item>
+    <item>acryl_saber</item>
     <item>acryl_schildichat</item>
+    <item>acryl_scoreboard</item>
     <item>acryl_scrambledexif</item>
     <item>acryl_screenshottile</item>
     <item>acryl_sdbviewer</item>
@@ -268,8 +286,10 @@
     <item>acryl_suntimes</item>
     <item>acryl_superfreeze</item>
     <item>acryl_syncopoli</item>
+    <item>acryl_taskmanager</item>
     <item>acryl_taupunkt</item>
     <item>acryl_teddyforreddit</item>
+    <item>acryl_tempusromanum</item>
     <item>acryl_termbin</item>
     <item>acryl_termux</item>
     <item>acryl_texttorch</item>

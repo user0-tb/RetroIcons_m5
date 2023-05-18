@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="icon_pack" translatable="false">
+    <item>acryl_.jtx</item>
     <item>acryl_1list</item>
     <item>acryl_2playerbattle</item>
     <item>acryl_9p</item>
@@ -8,6 +9,7 @@
     <item>acryl_acrylicicons</item>
     <item>acryl_aegis</item>
     <item>acryl_aicamera</item>
+    <item>acryl_alwaysonclock</item>
     <item>acryl_androidversion</item>
     <item>acryl_anonaddy</item>
     <item>acryl_anothernotes</item>
@@ -18,10 +20,12 @@
     <item>acryl_arcticonsdark</item>
     <item>acryl_arcticonslight</item>
     <item>acryl_ariane</item>
+    <item>acryl_aritydalc</item>
     <item>acryl_asteroidos</item>
     <item>acryl_atox</item>
     <item>acryl_audioserve</item>
     <item>acryl_auroradroid</item>
+    <item>acryl_auxio</item>
     <item>acryl_avnc</item>
     <item>acryl_babydots</item>
     <item>acryl_badgemagic</item>
@@ -36,6 +40,7 @@
     <item>acryl_blockpuzzle</item>
     <item>acryl_bolton</item>
     <item>acryl_bookreader</item>
+    <item>acryl_boomswitch</item>
     <item>acryl_briar</item>
     <item>acryl_calculatorplusplus</item>
     <item>acryl_callrecorder</item>
@@ -44,8 +49,10 @@
     <item>acryl_chubbyclick</item>
     <item>acryl_clover</item>
     <item>acryl_collaboraoffice</item>
+    <item>acryl_commandclick</item>
     <item>acryl_contactdiary</item>
     <item>acryl_cryptolitycs</item>
+    <item>acryl_ctumenza</item>
     <item>acryl_currencies</item>
     <item>acryl_cyberwow</item>
     <item>acryl_dagger</item>
@@ -62,6 +69,7 @@
     <item>acryl_diary</item>
     <item>acryl_discreetlauncher</item>
     <item>acryl_dmsexplorer</item>
+    <item>acryl_doable</item>
     <item>acryl_drip</item>
     <item>acryl_droidvncng</item>
     <item>acryl_easynotes</item>

@@ -7,25 +7,13 @@ try:
 except ImportError as error:
     print(f"Could not find requests, is it installed? {error}")
 
+NON_OPTIMIZED_ICONS = 'icons'
 RES_ROOT = os.path.join('app', 'src', 'main', 'res')
 XML_ROOT = os.path.join(RES_ROOT, 'xml')
 APPFILTER_PATH = os.path.join(XML_ROOT, 'appfilter.xml')
 DRAWABLE_ROOT = os.path.join(RES_ROOT, 'drawable')
 ICONPACK_PATH = os.path.join(RES_ROOT, 'values', 'iconpack.xml')
 IGNORE_FILENAME = 'sanity_check_ignored.txt'
-
-errors = 0
-
-print(f"Checking {APPFILTER_PATH}...")
-
-tree = ET.parse(APPFILTER_PATH)
-items = tree.getroot()
-
-ignored_items = []
-with open(IGNORE_FILENAME) as f:
-    for line in f:
-        ignored_items.append(line.strip())
-
 
 def get_drawable_error(drawable_name):
     if not drawable_name.startswith("acryl_"):
@@ -59,7 +47,28 @@ def check_package_izzyondroid(package_name):
     return requests.get(f"https://apt.izzysoft.de/fdroid/index/apk/{ package_name }").status_code == 200 
 
 
-# First, check all icons (because no web request needed)
+errors = 0
+
+ignored_items = []
+with open(IGNORE_FILENAME) as f:
+    for line in f:
+        ignored_items.append(line.strip())
+
+tree = ET.parse(APPFILTER_PATH)
+items = tree.getroot()
+
+# Offline checks
+print(f"Checking if all icons in {NON_OPTIMIZED_ICONS} are in {APPFILTER_PATH}...")
+for icon in os.listdir(NON_OPTIMIZED_ICONS):
+    for item in items:
+        if item.tag == 'item':
+            if f"{item.attrib['drawable']}.jpg" == icon:
+                break
+    else:
+        print(f"[ERROR] Image {icon} in {NON_OPTIMIZED_ICONS} was not found in {APPFILTER_PATH}")
+        errors += 1
+
+print(f"Checking if all the drawables in {APPFILTER_PATH} seem correct...")
 for item in items:
     if item.tag == 'item':
         drawable_name = item.attrib['drawable']
@@ -72,6 +81,7 @@ if errors > 0:
     print("[FATAL] One or more broken icons found. Fix them first, then run the script again to check packages.")
     exit(1)
 
+# Online checks
 for item in items:
     if item.tag == 'item':
         component = item.attrib['component']

@@ -1104,7 +1104,7 @@
 
     <!-- Lesezeichen -->
     <item 
-        component="ComponentInfo{org.schabi.nxbookmarks/org.schabi.ocbookmarks.MainActivity}" 
+        component="ComponentInfo{org.schabi.nxbookmarks/org.schabi.ocbookmarks.LoginAcitivty}" 
         drawable="acryl_nextcloudbookmarks"/>
 
     <!-- Libero Vocab -->

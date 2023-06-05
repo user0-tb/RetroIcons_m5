@@ -7,7 +7,9 @@
     <item>acryl_9p</item>
     <item>acryl_acode</item>
     <item>acryl_acrylicicons</item>
+    <item>acryl_activitymanager</item>
     <item>acryl_aegis</item>
+    <item>acryl_agoradesk</item>
     <item>acryl_aicamera</item>
     <item>acryl_alwaysonclock</item>
     <item>acryl_androidversion</item>
@@ -39,6 +41,7 @@
     <item>acryl_bitwarden</item>
     <item>acryl_blabberim</item>
     <item>acryl_blockpuzzle</item>
+    <item>acryl_bloodpressureapp</item>
     <item>acryl_bolton</item>
     <item>acryl_bookreader</item>
     <item>acryl_boomswitch</item>
@@ -49,6 +52,7 @@
     <item>acryl_catima</item>
     <item>acryl_chubbyclick</item>
     <item>acryl_clover</item>
+    <item>acryl_cofibrew</item>
     <item>acryl_collaboraoffice</item>
     <item>acryl_commandclick</item>
     <item>acryl_contactdiary</item>
@@ -61,6 +65,7 @@
     <item>acryl_dandelior</item>
     <item>acryl_dapnet</item>
     <item>acryl_datamonitor</item>
+    <item>acryl_davx5</item>
     <item>acryl_deedum</item>
     <item>acryl_delist</item>
     <item>acryl_deltachat</item>
@@ -73,6 +78,7 @@
     <item>acryl_dmsexplorer</item>
     <item>acryl_doable</item>
     <item>acryl_dooz</item>
+    <item>acryl_drinkable</item>
     <item>acryl_drip</item>
     <item>acryl_droidvncng</item>
     <item>acryl_drumon</item>
@@ -93,6 +99,7 @@
     <item>acryl_exifthumbnailadder</item>
     <item>acryl_exoairplayer</item>
     <item>acryl_fairemail</item>
+    <item>acryl_faketraveler</item>
     <item>acryl_fallingblocks</item>
     <item>acryl_fastlyrics</item>
     <item>acryl_fdroid</item>
@@ -121,6 +128,7 @@
     <item>acryl_giantstopwatch</item>
     <item>acryl_gitnex</item>
     <item>acryl_godoteditor</item>
+    <item>acryl_gptassist</item>
     <item>acryl_graphhoppermaps</item>
     <item>acryl_green</item>
     <item>acryl_grocyandroid</item>
@@ -139,13 +147,17 @@
     <item>acryl_hypezig</item>
     <item>acryl_imagepipe</item>
     <item>acryl_imgurviewer</item>
+    <item>acryl_improvementroll</item>
     <item>acryl_innertune</item>
     <item>acryl_instalate</item>
     <item>acryl_jiofibatterynotifier</item>
     <item>acryl_joplin</item>
     <item>acryl_justanotherworkouttimer</item>
+    <item>acryl_justnotes</item>
     <item>acryl_justvideoplayer</item>
+    <item>acryl_justweather</item>
     <item>acryl_k9mail</item>
+    <item>acryl_kboard</item>
     <item>acryl_kernelsu</item>
     <item>acryl_kfzkennzeichen</item>
     <item>acryl_khanos</item>
@@ -167,6 +179,7 @@
     <item>acryl_markor</item>
     <item>acryl_masstransfer</item>
     <item>acryl_materialfiles</item>
+    <item>acryl_mattermost beta</item>
     <item>acryl_medilog</item>
     <item>acryl_memory</item>
     <item>acryl_meshtastic</item>
@@ -186,6 +199,7 @@
     <item>acryl_monoclestranslator</item>
     <item>acryl_morse</item>
     <item>acryl_movim</item>
+    <item>acryl_mpvandroid</item>
     <item>acryl_mucke</item>
     <item>acryl_museumofabrokenapi</item>
     <item>acryl_music</item>
@@ -198,11 +212,13 @@
     <item>acryl_nextcloudbookmarks</item>
     <item>acryl_nextcloudcookbook</item>
     <item>acryl_nextcloudcookbookflutter</item>
+    <item>acryl_nextcloudtables</item>
     <item>acryl_nextcloudyaga</item>
     <item>acryl_nextplayer</item>
     <item>acryl_nexttracks</item>
     <item>acryl_nicefeed</item>
     <item>acryl_nlweer</item>
+    <item>acryl_nofasel</item>
     <item>acryl_notally</item>
     <item>acryl_noteless</item>
     <item>acryl_notepad</item>

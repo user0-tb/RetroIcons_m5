@@ -260,6 +260,7 @@
     <item>acryl_peercoin</item>
     <item>acryl_pep</item>
     <item>acryl_periodical</item>
+    <item>acryl_phase10counter</item>
     <item>acryl_photok</item>
     <item>acryl_pipepipe</item>
     <item>acryl_piwigo</item>
@@ -287,6 +288,7 @@
     <item>acryl_ruslin</item>
     <item>acryl_rxdroid</item>
     <item>acryl_saber</item>
+    <item>acryl_scheduler</item>
     <item>acryl_schildichat</item>
     <item>acryl_scoreboard</item>
     <item>acryl_scrambledexif</item>
@@ -294,6 +296,7 @@
     <item>acryl_screentime</item>
     <item>acryl_sdbviewer</item>
     <item>acryl_selfprivacy</item>
+    <item>acryl_sensorserver</item>
     <item>acryl_sentienlauncher</item>
     <item>acryl_seshat</item>
     <item>acryl_shadelauncher</item>
@@ -311,9 +314,11 @@
     <item>acryl_simplesearchbar</item>
     <item>acryl_simplesmsmessenger</item>
     <item>acryl_simpletask</item>
+    <item>acryl_simplexchat</item>
     <item>acryl_skydroid</item>
     <item>acryl_skytube</item>
     <item>acryl_smsmatrix</item>
+    <item>acryl_songtube</item>
     <item>acryl_spartathlon</item>
     <item>acryl_streetcomplete</item>
     <item>acryl_subtracks</item>
@@ -370,6 +375,7 @@
     <item>acryl_vectorpinball</item>
     <item>acryl_vertretungsplan</item>
     <item>acryl_vespucci</item>
+    <item>acryl_virtualhost</item>
     <item>acryl_vocabletrainer</item>
     <item>acryl_voiceaudiobookplayer</item>
     <item>acryl_voipmssms</item>
@@ -387,10 +393,12 @@
     <item>acryl_wger</item>
     <item>acryl_wifianalyzer</item>
     <item>acryl_wifiinfo</item>
+    <item>acryl_wikipedia</item>
     <item>acryl_wlanscanner</item>
     <item>acryl_workoutsnrest</item>
     <item>acryl_x11basic</item>
     <item>acryl_xmppadmin</item>
+    <item>acryl_yivi</item>
     <item>acryl_zapp</item>
     <item>acryl_zimlauncher</item>
   </string-array>

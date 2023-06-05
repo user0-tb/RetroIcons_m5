@@ -1605,181 +1605,433 @@
         drawable="acryl_wger"/>
 
 
-
-
     <!-- hier geht es mit der 14.0 weiter -->
 
 
-<!-- Activity Manager -->
-<item component="ComponentInfo{com.activitymanager/com.sdex.activityrunner.MainActivity}" drawable="activitymanager"/>
-<!-- AgoraDesk -->
-<item component="ComponentInfo{com.agoradesk.app/io.flutter.embedding.android.FlutterFragmentActivity}" drawable="agoradesk"/>
-<!-- Always On Clock -->
-<item component="ComponentInfo{io.github.aoc_normal/com.raiden.aoc_normal.MainActivity}" drawable="alwaysonclock"/>
-<!-- Arity -->
-<item component="ComponentInfo{org.woheller69.arity/arity.calculator.Calculator}" drawable="arity"/>
-<!-- AutoNotify -->
-<item component="ComponentInfo{com.upbad.apps.autonotify/com.upbad.apps.autonotify.component.MainActivity}" drawable="autonotify"/>
-<!-- Auxio -->
-<item component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}" drawable="auxio"/>
-<!-- blood pressure app -->
-<item component="ComponentInfo{com.derdilla.bloodPressureApp/com.derdilla.blood_pressure_app.MainActivity}" drawable="bloodpressureapp"/>
-<!-- BOOM Switch -->
-<item component="ComponentInfo{com.github.shingyx.boomswitch/com.github.shingyx.boomswitch.ui.MainActivity}" drawable="boomswitch"/>
-<!-- Cofi -->
-<item component="ComponentInfo{com.omelan.cofi/com.omelan.cofi.MainActivity}" drawable="cofi"/>
-<!-- CommandClick -->
-<item component="ComponentInfo{com.puutaro.commandclick/com.puutaro.commandclick.activity.MainActivity}" drawable="commandclick"/>
-<!-- Daten-Monitor -->
-<item component="ComponentInfo{com.drnoob.datamonitor/com.drnoob.datamonitor.ui.activities.SetupActivity}" drawable="daten-monitor"/>
-<!-- DAVx⁵ -->
-<item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity}" drawable="davx"/>
-<!-- Doable -->
-<item component="ComponentInfo{at.flobii.doable/at.flobii.doable.MainActivity}" drawable="doable"/>
-<!-- Dooz -->
-<item component="ComponentInfo{io.github.yamin8000.dooz/io.github.yamin8000.dooz.content.FreeMainActivity}" drawable="dooz"/>
-<!-- Drinkable -->
-<item component="ComponentInfo{com.moimob.drinkable/com.moimob.drinkable.MainActivity}" drawable="drinkable"/>
-<!-- Drum On! -->
-<item component="ComponentInfo{se.tube42.drum.android/se.tube42.drum.android.MainActivity}" drawable="drumon"/>
-<!-- EBT Compass -->
-<item component="ComponentInfo{com.ericbt.ebtcompass/com.ericbt.ebtcompass.activities.MainActivity}" drawable="ebtcompass"/>
-<!-- Energize -->
-<item component="ComponentInfo{com.flasskamp.energize/com.flasskamp.energize.MainActivity}" drawable="energize"/>
-<!-- ente -->
-<item component="ComponentInfo{io.ente.photos.fdroid/io.ente.photos.MainActivity}" drawable="ente"/>
-<!-- Fake Traveler -->
-<item component="ComponentInfo{cl.coders.faketraveler/cl.coders.faketraveler.MainActivity}" drawable="faketraveler"/>
-<!-- FastLyrics -->
-<item component="ComponentInfo{io.github.teccheck.fastlyrics/io.github.teccheck.fastlyrics.MainActivity}" drawable="fastlyrics"/>
-<!-- Fertility Test Analyzer -->
-<item component="ComponentInfo{com.colnix.fta/com.colnix.fta.HomeActivity}" drawable="fertilitytestanalyzer"/>
-<!-- Focus Launcher -->
-<item component="ComponentInfo{dev.mslalith.focuslauncher/dev.mslalith.focuslauncher.LauncherActivity}" drawable="focuslauncher"/>
-<!-- FTPClient -->
-<item component="ComponentInfo{de.qwerty287.ftpclient/de.qwerty287.ftpclient.MainActivity}" drawable="ftpclient"/>
-<!-- Godot Editor 3 -->
-<item component="ComponentInfo{org.godotengine.editor.v3/org.godotengine.editor.GodotProjectManager}" drawable="godoteditor3"/>
-<!-- Godot Editor 4 -->
-<item component="ComponentInfo{org.godotengine.editor.v4/org.godotengine.editor.GodotProjectManager}" drawable="godoteditor4"/>
-<!-- gptAssist -->
-<item component="ComponentInfo{org.woheller69.gptassist/org.woheller69.gptassist.MainActivity}" drawable="gptassist"/>
-<!-- Habo -->
-<item component="ComponentInfo{com.pavlenko.Habo/com.pavlenko.Habo.MainActivity}" drawable="habo"/>
-<!-- Hacki -->
-<item component="ComponentInfo{com.jiaqifeng.hacki/com.jiaqifeng.hacki.MainActivity}" drawable="hacki"/>
-<!-- HalfDot -->
-<item component="ComponentInfo{it.davquar.halfdot/it.davquar.halfdot.MainActivity}" drawable="halfdot"/>
-<!-- Improvement Roll -->
-<item component="ComponentInfo{com.improvement_roll/com.improvement_roll.MainActivity}" drawable="improvementroll"/>
-<!-- InnerTune -->
-<item component="ComponentInfo{com.zionhuang.music/com.zionhuang.music.ui.activities.MainActivity}" drawable="innertune"/>
-<!-- jtx Board -->
-<item component="ComponentInfo{at.techbee.jtx/at.techbee.jtx.MainActivity2}" drawable="jtxboard"/>
-<!-- JustNotes -->
-<item component="ComponentInfo{com.jjewuz.justnotes/com.jjewuz.justnotes.MainActivity}" drawable="justnotes"/>
-<!-- JustWeather -->
-<item component="ComponentInfo{com.jjewuz.justweather/com.jjewuz.justweather.MainActivity}" drawable="justweather"/>
-<!-- kboard Settings -->
-<item component="ComponentInfo{com.adgad.kboard/com.adgad.kboard.PrefsActivity}" drawable="kboardsettings"/>
-<!-- KernelSU -->
-<item component="ComponentInfo{me.weishu.kernelsu/me.weishu.kernelsu.ui.MainActivity}" drawable="kernelsu"/>
-<!-- Khanos -->
-<item component="ComponentInfo{com.gojaponte.khanos/com.gojaponte.khanos.MainActivity}" drawable="khanos"/>
-<!-- mail -->
-<item component="ComponentInfo{de.monocles.mail/com.fsck.k9.activity.MessageList}" drawable="mail"/>
-<!-- Mattermost Beta -->
-<item component="ComponentInfo{com.mattermost.rnbeta/com.mattermost.rnbeta.MainActivity}" drawable="mattermostbeta"/>
-<!-- Menza -->
-<item component="ComponentInfo{cz.lastaapps.menza/cz.lastaapps.menza.MainActivity}" drawable="menza"/>
-<!-- Meshtastic -->
-<item component="ComponentInfo{com.geeksville.mesh/com.geeksville.mesh.MainActivity}" drawable="meshtastic"/>
-<!-- mpv -->
-<item component="ComponentInfo{is.xyz.mpv/is.xyz.mpv.MainActivity}" drawable="mpv"/>
-<!-- mucke -->
-<item component="ComponentInfo{rocks.mucke/com.ryanheise.audioservice.AudioServiceActivity}" drawable="mucke"/>
-<!-- Nachrichten -->
-<item component="ComponentInfo{co.appreactor.news/navigation.Activity}" drawable="nachrichten"/>
-<!-- neutriNote CE -->
-<item component="ComponentInfo{com.appmindlab.nano/com.appmindlab.nano.IntroActivity}" drawable="neutrinotece"/>
-<!-- Next Player -->
-<item component="ComponentInfo{dev.anilbeesetti.nextplayer/dev.anilbeesetti.nextplayer.MainActivity}" drawable="nextplayer"/>
-<!-- NoFasel -->
-<item component="ComponentInfo{com.n00nedev.nofasel/com.n00nedev.nofasel.MainActivity}" drawable="nofasel"/>
-<!-- Olauncher -->
-<item component="ComponentInfo{app.olauncher/app.olauncher.MainActivity}" drawable="olauncher"/>
-<!-- Olauncher Clutter Free -->
-<item component="ComponentInfo{app.olaunchercf/app.olaunchercf.MainActivity}" drawable="olauncherclutterfree"/>
-<!-- OpenStop -->
-<item component="ComponentInfo{de.tu_chemnitz.etit.sse.openstop/de.tu_chemnitz.etit.sse.openstop.MainActivity}" drawable="openstop"/>
-<!-- OpenVK -->
-<item component="ComponentInfo{uk.openvk.android.legacy/uk.openvk.android.legacy.ui.core.activities.MainActivity}" drawable="openvk"/>
-<!-- OSS Wetter -->
-<item component="ComponentInfo{com.akylas.weather/com.tns.NativeScriptActivity}" drawable="osswetter"/>
-<!-- ParkenUlm -->
-<item component="ComponentInfo{development.parkenulm/development.parkenulm.MainActivity}" drawable="parkenulm"/>
-<!-- Phase 10 Counter -->
-<item component="ComponentInfo{com.tjEnterprises.phase10Counter/com.tjEnterprises.phase10Counter.MainActivity}" drawable="phase10counter"/>
-<!-- PipePipe -->
-<item component="ComponentInfo{InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity}" drawable="pipepipe"/>
-<!-- PlainApp -->
-<item component="ComponentInfo{com.ismartcoding.plain/com.ismartcoding.plain.ui.MainActivity}" drawable="plainapp"/>
-<!-- Quote Unquote -->
-<item component="ComponentInfo{com.github.jameshnsears.quoteunquote/com.github.jameshnsears.quoteunquote.QuoteUnquoteInstructions}" drawable="quoteunquote"/>
-<!-- Rechner -->
-<item component="ComponentInfo{com.darkempire78.opencalculator/com.darkempire78.opencalculator.MainActivity}" drawable="rechner"/>
-<!-- RHVoice -->
-<item component="ComponentInfo{com.github.olga_yakovleva.rhvoice.android/com.github.olga_yakovleva.rhvoice.android.MainActivity}" drawable="rhvoice"/>
-<!-- RootlessJamesDSP -->
-<item component="ComponentInfo{me.timschneeberger.rootlessjamesdsp/me.timschneeberger.rootlessjamesdsp.activity.MainActivity}" drawable="rootlessjamesdsp"/>
-<!-- Saber -->
-<item component="ComponentInfo{com.adilhanney.saber/com.adilhanney.saber.MainActivity}" drawable="saber"/>
-<!-- Scheduler -->
-<item component="ComponentInfo{prototype.xd.scheduler/prototype.xd.scheduler.MainActivity}" drawable="scheduler"/>
-<!-- Scoreboard -->
-<item component="ComponentInfo{com.github.vatbub.scoreboard/com.github.vatbub.scoreboard.view.MainActivity}" drawable="scoreboard"/>
-<!-- Screen Time -->
-<item component="ComponentInfo{de.markusfisch.android.screentime/de.markusfisch.android.screentime.activity.MainActivity}" drawable="screentime"/>
-<!-- Sensor Server -->
-<item component="ComponentInfo{github.umer0586/github.umer0586.sensorserver.activities.FragmentNavigationActivity}" drawable="sensorserver"/>
-<!-- SimpleX -->
-<item component="ComponentInfo{chat.simplex.app/chat.simplex.app.MainActivity_default}" drawable="simplex"/>
-<!-- SongTube -->
-<item component="ComponentInfo{com.artxdev.songtube/com.ryanheise.audioservice.AudioServiceActivity}" drawable="songtube"/>
-<!-- Tabellen -->
-<item component="ComponentInfo{it.niedermann.nextcloud.tables/it.niedermann.nextcloud.tables.ui.main.MainActivity}" drawable="tabellen"/>
-<!-- Task Manager -->
-<item component="ComponentInfo{com.nima.taskmanager/com.nima.taskmanager.MainActivity}" drawable="taskmanager"/>
-<!-- Tempus Romanum -->
-<item component="ComponentInfo{com.dev.xavier.tempusromanum/com.dev.xavier.tempusromanum.MainActivity}" drawable="tempusromanum"/>
-<!-- Termux:GUI -->
-<item component="ComponentInfo{com.termux.gui/com.termux.gui.GUIConfigActivity}" drawable="termuxgui"/>
-<!-- translator -->
-<item component="ComponentInfo{de.monocles.translator/de.monocles.translator.ui.MainActivity}" drawable="translator"/>
-<!-- tSotaLog -->
-<item component="ComponentInfo{ch.hb9hnt.tsotalog/ch.hb9hnt.tsotalog.MainActivity}" drawable="tsotalog"/>
-<!-- Tuner -->
-<item component="ComponentInfo{de.moekadu.tuner/de.moekadu.tuner.MainActivity}" drawable="tuner"/>
-<!-- Twire -->
-<item component="ComponentInfo{com.perflyst.twire/com.perflyst.twire.activities.StartUpActivity}" drawable="twire"/>
-<!-- Ultrasonic -->
-<item component="ComponentInfo{org.moire.ultrasonic/org.moire.ultrasonic.activity.NavigationActivity}" drawable="ultrasonic"/>
-<!-- URLCheck -->
-<item component="ComponentInfo{com.trianguloy.urlchecker/com.trianguloy.urlchecker.activities.MainActivity}" drawable="urlcheck"/>
-<!-- V2compose -->
-<item component="ComponentInfo{io.github.v2compose/io.github.v2compose.MainActivity}" drawable="v2compose"/>
-<!-- Virtual Hosts -->
-<item component="ComponentInfo{com.github.xfalcon.vhosts/com.github.xfalcon.vhosts.VhostsActivity}" drawable="virtualhosts"/>
-<!-- Voice -->
-<item component="ComponentInfo{de.ph1b.audiobook/voice.app.features.MainActivity}" drawable="voice"/>
-<!-- Wake on Lan -->
-<item component="ComponentInfo{de.florianisme.wakeonlan/de.florianisme.wakeonlan.ui.MainActivity}" drawable="wakeonlan"/>
-<!-- Water Me -->
-<item component="ComponentInfo{ch.abertschi.waterme.water_me/ch.abertschi.waterme.water_me.MainActivity}" drawable="waterme"/>
-<!-- Wikipedia -->
-<item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia"/>
-<!-- Yivi -->
-<item component="ComponentInfo{org.irmacard.cardemu/foundation.privacybydesign.irmamobile.MainActivity}" drawable="yivi"/>
+    <!-- Activity Manager -->
+    <item 
+        component="ComponentInfo{com.activitymanager/com.sdex.activityrunner.MainActivity}" 
+        drawable="activitymanager"/>
+
+    <!-- AgoraDesk -->
+    <item 
+        component="ComponentInfo{com.agoradesk.app/io.flutter.embedding.android.FlutterFragmentActivity}" 
+        drawable="agoradesk"/>
+
+    <!-- Always On Clock -->
+    <item 
+        component="ComponentInfo{io.github.aoc_normal/com.raiden.aoc_normal.MainActivity}" 
+        drawable="alwaysonclock"/>
+
+    <!-- Arity -->
+    <item 
+        component="ComponentInfo{org.woheller69.arity/arity.calculator.Calculator}" 
+        drawable="arity"/>
+
+    <!-- AutoNotify -->
+    <item 
+        component="ComponentInfo{com.upbad.apps.autonotify/com.upbad.apps.autonotify.component.MainActivity}" 
+        drawable="autonotify"/>
+
+    <!-- Auxio -->
+    <item 
+        component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}" 
+        drawable="auxio"/>
+
+    <!-- blood pressure app -->
+    <item 
+        component="ComponentInfo{com.derdilla.bloodPressureApp/com.derdilla.blood_pressure_app.MainActivity}" 
+        drawable="bloodpressureapp"/>
+
+    <!-- BOOM Switch -->
+    <item 
+        component="ComponentInfo{com.github.shingyx.boomswitch/com.github.shingyx.boomswitch.ui.MainActivity}" 
+        drawable="boomswitch"/>
+
+    <!-- Cofi -->
+    <item 
+        component="ComponentInfo{com.omelan.cofi/com.omelan.cofi.MainActivity}" 
+        drawable="cofi"/>
+
+    <!-- CommandClick -->
+    <item 
+        component="ComponentInfo{com.puutaro.commandclick/com.puutaro.commandclick.activity.MainActivity}" 
+        drawable="commandclick"/>
+
+    <!-- Daten-Monitor -->
+    <item 
+        component="ComponentInfo{com.drnoob.datamonitor/com.drnoob.datamonitor.ui.activities.SetupActivity}" 
+        drawable="daten-monitor"/>
+
+    <!-- DAVx⁵ -->
+    <item 
+        component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity}" 
+        drawable="davx"/>
+
+    <!-- Doable -->
+    <item 
+        component="ComponentInfo{at.flobii.doable/at.flobii.doable.MainActivity}" 
+        drawable="doable"/>
+
+    <!-- Dooz -->
+    <item 
+        component="ComponentInfo{io.github.yamin8000.dooz/io.github.yamin8000.dooz.content.FreeMainActivity}" 
+        drawable="dooz"/>
+
+    <!-- Drinkable -->
+    <item 
+        component="ComponentInfo{com.moimob.drinkable/com.moimob.drinkable.MainActivity}" 
+        drawable="drinkable"/>
+
+    <!-- Drum On! -->
+    <item 
+        component="ComponentInfo{se.tube42.drum.android/se.tube42.drum.android.MainActivity}" 
+        drawable="drumon"/>
+
+    <!-- EBT Compass -->
+    <item 
+        component="ComponentInfo{com.ericbt.ebtcompass/com.ericbt.ebtcompass.activities.MainActivity}" 
+        drawable="ebtcompass"/>
+
+    <!-- Energize -->
+    <item 
+        component="ComponentInfo{com.flasskamp.energize/com.flasskamp.energize.MainActivity}" 
+        drawable="energize"/>
+
+    <!-- ente -->
+    <item 
+        component="ComponentInfo{io.ente.photos.fdroid/io.ente.photos.MainActivity}" 
+        drawable="ente"/>
+
+    <!-- Fake Traveler -->
+    <item 
+        component="ComponentInfo{cl.coders.faketraveler/cl.coders.faketraveler.MainActivity}" 
+        drawable="faketraveler"/>
+
+    <!-- FastLyrics -->
+    <item 
+        component="ComponentInfo{io.github.teccheck.fastlyrics/io.github.teccheck.fastlyrics.MainActivity}" 
+        drawable="fastlyrics"/>
+
+    <!-- Fertility Test Analyzer -->
+    <item 
+        component="ComponentInfo{com.colnix.fta/com.colnix.fta.HomeActivity}" 
+        drawable="fertilitytestanalyzer"/>
+
+    <!-- Focus Launcher -->
+    <item 
+        component="ComponentInfo{dev.mslalith.focuslauncher/dev.mslalith.focuslauncher.LauncherActivity}" 
+        drawable="focuslauncher"/>
+
+    <!-- FTPClient -->
+    <item 
+        component="ComponentInfo{de.qwerty287.ftpclient/de.qwerty287.ftpclient.MainActivity}" 
+        drawable="ftpclient"/>
+
+    <!-- Godot Editor 3 -->
+    <item 
+        component="ComponentInfo{org.godotengine.editor.v3/org.godotengine.editor.GodotProjectManager}" 
+        drawable="godoteditor3"/>
+
+    <!-- Godot Editor 4 -->
+    <item 
+        component="ComponentInfo{org.godotengine.editor.v4/org.godotengine.editor.GodotProjectManager}" 
+        drawable="godoteditor4"/>
+
+    <!-- gptAssist -->
+    <item 
+        component="ComponentInfo{org.woheller69.gptassist/org.woheller69.gptassist.MainActivity}" 
+        drawable="gptassist"/>
+
+    <!-- Habo -->
+    <item 
+        component="ComponentInfo{com.pavlenko.Habo/com.pavlenko.Habo.MainActivity}" 
+        drawable="habo"/>
+
+    <!-- Hacki -->
+    <item 
+        component="ComponentInfo{com.jiaqifeng.hacki/com.jiaqifeng.hacki.MainActivity}" 
+        drawable="hacki"/>
+
+    <!-- HalfDot -->
+    <item 
+        component="ComponentInfo{it.davquar.halfdot/it.davquar.halfdot.MainActivity}" 
+        drawable="halfdot"/>
+
+    <!-- Improvement Roll -->
+    <item 
+        component="ComponentInfo{com.improvement_roll/com.improvement_roll.MainActivity}" 
+        drawable="improvementroll"/>
+
+    <!-- InnerTune -->
+    <item 
+        component="ComponentInfo{com.zionhuang.music/com.zionhuang.music.ui.activities.MainActivity}"
+         drawable="innertune"/>
+
+    <!-- jtx Board -->
+    <item 
+        component="ComponentInfo{at.techbee.jtx/at.techbee.jtx.MainActivity2}" 
+        drawable="jtxboard"/>
+
+    <!-- JustNotes -->
+    <item 
+        component="ComponentInfo{com.jjewuz.justnotes/com.jjewuz.justnotes.MainActivity}" 
+        drawable="justnotes"/>
+
+    <!-- JustWeather -->
+    <item 
+        component="ComponentInfo{com.jjewuz.justweather/com.jjewuz.justweather.MainActivity}" 
+        drawable="justweather"/>
+
+    <!-- kboard Settings -->
+    <item 
+        component="ComponentInfo{com.adgad.kboard/com.adgad.kboard.PrefsActivity}" 
+        drawable="kboardsettings"/>
+
+    <!-- KernelSU -->
+    <item 
+        component="ComponentInfo{me.weishu.kernelsu/me.weishu.kernelsu.ui.MainActivity}" 
+        drawable="kernelsu"/>
+
+    <!-- Khanos -->
+    <item 
+        component="ComponentInfo{com.gojaponte.khanos/com.gojaponte.khanos.MainActivity}" 
+        drawable="khanos"/>
+
+    <!-- mail -->
+    <item 
+        component="ComponentInfo{de.monocles.mail/com.fsck.k9.activity.MessageList}" 
+        drawable="mail"/>
+
+    <!-- Mattermost Beta -->
+    <item 
+        component="ComponentInfo{com.mattermost.rnbeta/com.mattermost.rnbeta.MainActivity}" 
+        drawable="mattermostbeta"/>
+
+    <!-- Menza -->
+    <item 
+        component="ComponentInfo{cz.lastaapps.menza/cz.lastaapps.menza.MainActivity}" 
+        drawable="menza"/>
+
+    <!-- Meshtastic -->
+    <item 
+        component="ComponentInfo{com.geeksville.mesh/com.geeksville.mesh.MainActivity}" 
+        drawable="meshtastic"/>
+
+    <!-- mpv -->
+    <item 
+        component="ComponentInfo{is.xyz.mpv/is.xyz.mpv.MainActivity}" 
+        drawable="mpv"/>
+
+    <!-- mucke -->
+    <item 
+        component="ComponentInfo{rocks.mucke/com.ryanheise.audioservice.AudioServiceActivity}" 
+        drawable="mucke"/>
+
+    <!-- Nachrichten Nextcloud News-->
+    <item 
+        component="ComponentInfo{co.appreactor.news/navigation.Activity}" 
+        drawable="nachrichten"/>
+
+    <!-- neutriNote CE -->
+    <item 
+        component="ComponentInfo{com.appmindlab.nano/com.appmindlab.nano.IntroActivity}" 
+        drawable="neutrinotece"/>
+
+    <!-- Next Player -->
+    <item 
+        component="ComponentInfo{dev.anilbeesetti.nextplayer/dev.anilbeesetti.nextplayer.MainActivity}" 
+        drawable="nextplayer"/>
+
+    <!-- NoFasel -->
+    <item 
+        component="ComponentInfo{com.n00nedev.nofasel/com.n00nedev.nofasel.MainActivity}" 
+        drawable="nofasel"/>
+
+    <!-- Olauncher -->
+    <item 
+        component="ComponentInfo{app.olauncher/app.olauncher.MainActivity}" 
+        drawable="olauncher"/>
+
+    <!-- Olauncher Clutter Free -->
+    <item 
+        component="ComponentInfo{app.olaunchercf/app.olaunchercf.MainActivity}" 
+        drawable="olauncherclutterfree"/>
+
+    <!-- OpenStop -->
+    <item 
+        component="ComponentInfo{de.tu_chemnitz.etit.sse.openstop/de.tu_chemnitz.etit.sse.openstop.MainActivity}" 
+        drawable="openstop"/>
+
+    <!-- OpenVK -->
+    <item 
+        component="ComponentInfo{uk.openvk.android.legacy/uk.openvk.android.legacy.ui.core.activities.MainActivity}" 
+        drawable="openvk"/>
+
+    <!-- OSS Wetter -->
+    <item 
+        component="ComponentInfo{com.akylas.weather/com.tns.NativeScriptActivity}" 
+        drawable="osswetter"/>
+
+    <!-- ParkenUlm -->
+    <item 
+        component="ComponentInfo{development.parkenulm/development.parkenulm.MainActivity}" 
+        drawable="parkenulm"/>
+
+    <!-- Phase 10 Counter -->
+    <item 
+        component="ComponentInfo{com.tjEnterprises.phase10Counter/com.tjEnterprises.phase10Counter.MainActivity}" 
+        drawable="phase10counter"/>
+
+    <!-- PipePipe -->
+    <item 
+        component="ComponentInfo{InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity}" 
+        drawable="pipepipe"/>
+
+    <!-- PlainApp -->
+    <item 
+        component="ComponentInfo{com.ismartcoding.plain/com.ismartcoding.plain.ui.MainActivity}" 
+        drawable="plainapp"/>
+    
+    <!-- Quote Unquote -->
+    <item 
+        component="ComponentInfo{com.github.jameshnsears.quoteunquote/com.github.jameshnsears.quoteunquote.QuoteUnquoteInstructions}" 
+        drawable="quoteunquote"/>
+
+    <!-- Rechner -->
+    <item 
+        component="ComponentInfo{com.darkempire78.opencalculator/com.darkempire78.opencalculator.MainActivity}" 
+        drawable="rechner"/>
+
+    <!-- RHVoice -->
+    <item 
+        component="ComponentInfo{com.github.olga_yakovleva.rhvoice.android/com.github.olga_yakovleva.rhvoice.android.MainActivity}" 
+        drawable="rhvoice"/>
+
+    <!-- RootlessJamesDSP -->
+    <item 
+        component="ComponentInfo{me.timschneeberger.rootlessjamesdsp/me.timschneeberger.rootlessjamesdsp.activity.MainActivity}" 
+        drawable="rootlessjamesdsp"/>
+
+    <!-- Saber -->
+    <item 
+        component="ComponentInfo{com.adilhanney.saber/com.adilhanney.saber.MainActivity}" 
+        drawable="saber"/>
+
+    <!-- Scheduler -->
+    <item 
+        component="ComponentInfo{prototype.xd.scheduler/prototype.xd.scheduler.MainActivity}" 
+        drawable="scheduler"/>
+
+    <!-- Scoreboard -->
+    <item 
+        component="ComponentInfo{com.github.vatbub.scoreboard/com.github.vatbub.scoreboard.view.MainActivity}" 
+        drawable="scoreboard"/>
+
+    <!-- Screen Time -->
+    <item 
+        component="ComponentInfo{de.markusfisch.android.screentime/de.markusfisch.android.screentime.activity.MainActivity}" 
+        drawable="screentime"/>
+
+    <!-- Sensor Server -->
+    <item 
+        component="ComponentInfo{github.umer0586/github.umer0586.sensorserver.activities.FragmentNavigationActivity}" 
+        drawable="sensorserver"/>
+
+    <!-- SimpleX -->
+    <item 
+        component="ComponentInfo{chat.simplex.app/chat.simplex.app.MainActivity_default}" 
+        drawable="simplex"/>
+
+    <!-- SongTube -->
+    <item 
+        component="ComponentInfo{com.artxdev.songtube/com.ryanheise.audioservice.AudioServiceActivity}" 
+        drawable="songtube"/>
+
+    <!-- Tabellen Nextcloud Tables-->
+    <item 
+        component="ComponentInfo{it.niedermann.nextcloud.tables/it.niedermann.nextcloud.tables.ui.main.MainActivity}" 
+        drawable="tabellen"/>
+
+    <!-- Task Manager -->
+    <item 
+        component="ComponentInfo{com.nima.taskmanager/com.nima.taskmanager.MainActivity}" 
+        drawable="taskmanager"/>
+
+    <!-- Tempus Romanum -->
+    <item 
+        component="ComponentInfo{com.dev.xavier.tempusromanum/com.dev.xavier.tempusromanum.MainActivity}" 
+        drawable="tempusromanum"/>
+
+    <!-- Termux:GUI -->
+    <item 
+        component="ComponentInfo{com.termux.gui/com.termux.gui.GUIConfigActivity}" 
+        drawable="termuxgui"/>
+
+    <!-- translator -->
+    <item 
+        component="ComponentInfo{de.monocles.translator/de.monocles.translator.ui.MainActivity}" 
+        drawable="translator"/>
+
+    <!-- tSotaLog -->
+    <item 
+        component="ComponentInfo{ch.hb9hnt.tsotalog/ch.hb9hnt.tsotalog.MainActivity}" 
+        drawable="tsotalog"/>
+
+    <!-- Tuner -->
+    <item 
+        component="ComponentInfo{de.moekadu.tuner/de.moekadu.tuner.MainActivity}" 
+        drawable="tuner"/>
+
+    <!-- Twire -->
+    <item 
+        component="ComponentInfo{com.perflyst.twire/com.perflyst.twire.activities.StartUpActivity}" 
+        drawable="twire"/>
+
+    <!-- Ultrasonic -->
+    <item 
+        component="ComponentInfo{org.moire.ultrasonic/org.moire.ultrasonic.activity.NavigationActivity}" 
+        drawable="ultrasonic"/>
+
+    <!-- URLCheck -->
+    <item 
+        component="ComponentInfo{com.trianguloy.urlchecker/com.trianguloy.urlchecker.activities.MainActivity}" 
+        drawable="urlcheck"/>
+
+    <!-- V2compose -->
+    <item 
+        component="ComponentInfo{io.github.v2compose/io.github.v2compose.MainActivity}" 
+        drawable="v2compose"/>
+
+    <!-- Virtual Hosts -->
+    <item 
+        component="ComponentInfo{com.github.xfalcon.vhosts/com.github.xfalcon.vhosts.VhostsActivity}" 
+        drawable="virtualhosts"/>
+
+    <!-- Voice -->
+    <item 
+        component="ComponentInfo{de.ph1b.audiobook/voice.app.features.MainActivity}" 
+        drawable="voice"/>
+    
+    <!-- Wake on Lan -->
+    <item 
+        component="ComponentInfo{de.florianisme.wakeonlan/de.florianisme.wakeonlan.ui.MainActivity}" 
+        drawable="wakeonlan"/>
+
+    <!-- Water Me -->
+    <item 
+        component="ComponentInfo{ch.abertschi.waterme.water_me/ch.abertschi.waterme.water_me.MainActivity}" 
+        drawable="waterme"/>
+
+    <!-- Wikipedia -->
+    <item 
+        component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" 
+        drawable="wikipedia"/>
+    
+    <!-- Yivi -->
+    <item 
+        component="ComponentInfo{org.irmacard.cardemu/foundation.privacybydesign.irmamobile.MainActivity}" 
+        drawable="yivi"/>
 
 
 </resources>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="icon_pack" translatable="false">
-    <item>acryl_.jtx</item>
     <item>acryl_1list</item>
     <item>acryl_2playerbattle</item>
     <item>acryl_9p</item>
@@ -152,6 +151,7 @@
     <item>acryl_instalate</item>
     <item>acryl_jiofibatterynotifier</item>
     <item>acryl_joplin</item>
+    <item>acryl_jtx</item>
     <item>acryl_justanotherworkouttimer</item>
     <item>acryl_justnotes</item>
     <item>acryl_justvideoplayer</item>

@@ -1605,433 +1605,431 @@
         drawable="acryl_wger"/>
 
 
-    <!-- hier geht es mit der 14.0 weiter -->
-
-
+    
     <!-- Activity Manager -->
     <item 
         component="ComponentInfo{com.activitymanager/com.sdex.activityrunner.MainActivity}" 
-        drawable="activitymanager"/>
+        drawable="acryl_activitymanager"/>
 
     <!-- AgoraDesk -->
     <item 
         component="ComponentInfo{com.agoradesk.app/io.flutter.embedding.android.FlutterFragmentActivity}" 
-        drawable="agoradesk"/>
+        drawable="acryl_agoradesk"/>
 
     <!-- Always On Clock -->
     <item 
         component="ComponentInfo{io.github.aoc_normal/com.raiden.aoc_normal.MainActivity}" 
-        drawable="alwaysonclock"/>
+        drawable="acryl_alwaysonclock"/>
 
     <!-- Arity -->
     <item 
         component="ComponentInfo{org.woheller69.arity/arity.calculator.Calculator}" 
-        drawable="arity"/>
+        drawable="acryl_aritydalc"/>
 
     <!-- AutoNotify -->
     <item 
         component="ComponentInfo{com.upbad.apps.autonotify/com.upbad.apps.autonotify.component.MainActivity}" 
-        drawable="autonotify"/>
+        drawable="acryl_autonotify"/>
 
     <!-- Auxio -->
     <item 
         component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}" 
-        drawable="auxio"/>
+        drawable="acryl_auxio"/>
 
     <!-- blood pressure app -->
     <item 
         component="ComponentInfo{com.derdilla.bloodPressureApp/com.derdilla.blood_pressure_app.MainActivity}" 
-        drawable="bloodpressureapp"/>
+        drawable="acryl_bloodpressureapp"/>
 
     <!-- BOOM Switch -->
     <item 
         component="ComponentInfo{com.github.shingyx.boomswitch/com.github.shingyx.boomswitch.ui.MainActivity}" 
-        drawable="boomswitch"/>
+        drawable="acryl_boomswitch"/>
 
     <!-- Cofi -->
     <item 
         component="ComponentInfo{com.omelan.cofi/com.omelan.cofi.MainActivity}" 
-        drawable="cofi"/>
+        drawable="acryl_cofibrew"/>
 
     <!-- CommandClick -->
     <item 
         component="ComponentInfo{com.puutaro.commandclick/com.puutaro.commandclick.activity.MainActivity}" 
-        drawable="commandclick"/>
+        drawable="acryl_commandclick"/>
 
     <!-- Daten-Monitor -->
     <item 
         component="ComponentInfo{com.drnoob.datamonitor/com.drnoob.datamonitor.ui.activities.SetupActivity}" 
-        drawable="daten-monitor"/>
+        drawable="acryl_datamonitor"/>
 
     <!-- DAVx⁵ -->
     <item 
         component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.AccountsActivity}" 
-        drawable="davx"/>
+        drawable="acryl_davx5"/>
 
     <!-- Doable -->
     <item 
         component="ComponentInfo{at.flobii.doable/at.flobii.doable.MainActivity}" 
-        drawable="doable"/>
+        drawable="acryl_doable"/>
 
     <!-- Dooz -->
     <item 
         component="ComponentInfo{io.github.yamin8000.dooz/io.github.yamin8000.dooz.content.FreeMainActivity}" 
-        drawable="dooz"/>
+        drawable="acryl_dooz"/>
 
     <!-- Drinkable -->
     <item 
         component="ComponentInfo{com.moimob.drinkable/com.moimob.drinkable.MainActivity}" 
-        drawable="drinkable"/>
+        drawable="acryl_drinkable"/>
 
     <!-- Drum On! -->
     <item 
         component="ComponentInfo{se.tube42.drum.android/se.tube42.drum.android.MainActivity}" 
-        drawable="drumon"/>
+        drawable="acryl_drumon"/>
 
     <!-- EBT Compass -->
     <item 
         component="ComponentInfo{com.ericbt.ebtcompass/com.ericbt.ebtcompass.activities.MainActivity}" 
-        drawable="ebtcompass"/>
+        drawable="acryl_ebtcompass"/>
 
     <!-- Energize -->
     <item 
         component="ComponentInfo{com.flasskamp.energize/com.flasskamp.energize.MainActivity}" 
-        drawable="energize"/>
+        drawable="acryl_energize"/>
 
     <!-- ente -->
     <item 
         component="ComponentInfo{io.ente.photos.fdroid/io.ente.photos.MainActivity}" 
-        drawable="ente"/>
+        drawable="acryl_ente"/>
 
     <!-- Fake Traveler -->
     <item 
         component="ComponentInfo{cl.coders.faketraveler/cl.coders.faketraveler.MainActivity}" 
-        drawable="faketraveler"/>
+        drawable="acryl_faketraveler"/>
 
     <!-- FastLyrics -->
     <item 
         component="ComponentInfo{io.github.teccheck.fastlyrics/io.github.teccheck.fastlyrics.MainActivity}" 
-        drawable="fastlyrics"/>
+        drawable="acryl_fastlyrics"/>
 
     <!-- Fertility Test Analyzer -->
     <item 
         component="ComponentInfo{com.colnix.fta/com.colnix.fta.HomeActivity}" 
-        drawable="fertilitytestanalyzer"/>
+        drawable="acryl_fertilitytestanalyzer"/>
 
     <!-- Focus Launcher -->
     <item 
         component="ComponentInfo{dev.mslalith.focuslauncher/dev.mslalith.focuslauncher.LauncherActivity}" 
-        drawable="focuslauncher"/>
+        drawable="acryl_focuslauncher"/>
 
     <!-- FTPClient -->
     <item 
         component="ComponentInfo{de.qwerty287.ftpclient/de.qwerty287.ftpclient.MainActivity}" 
-        drawable="ftpclient"/>
+        drawable="acryl_ftpclient"/>
 
     <!-- Godot Editor 3 -->
     <item 
         component="ComponentInfo{org.godotengine.editor.v3/org.godotengine.editor.GodotProjectManager}" 
-        drawable="godoteditor3"/>
+        drawable="acryl_godoteditor"/>
 
     <!-- Godot Editor 4 -->
     <item 
         component="ComponentInfo{org.godotengine.editor.v4/org.godotengine.editor.GodotProjectManager}" 
-        drawable="godoteditor4"/>
+        drawable="acryl_godoteditor"/>
 
     <!-- gptAssist -->
     <item 
         component="ComponentInfo{org.woheller69.gptassist/org.woheller69.gptassist.MainActivity}" 
-        drawable="gptassist"/>
+        drawable="acryl_gptassist"/>
 
     <!-- Habo -->
     <item 
         component="ComponentInfo{com.pavlenko.Habo/com.pavlenko.Habo.MainActivity}" 
-        drawable="habo"/>
+        drawable="acryl_habo"/>
 
     <!-- Hacki -->
     <item 
         component="ComponentInfo{com.jiaqifeng.hacki/com.jiaqifeng.hacki.MainActivity}" 
-        drawable="hacki"/>
+        drawable="acryl_hacki"/>
 
     <!-- HalfDot -->
     <item 
         component="ComponentInfo{it.davquar.halfdot/it.davquar.halfdot.MainActivity}" 
-        drawable="halfdot"/>
+        drawable="acryl_halfdot"/>
 
     <!-- Improvement Roll -->
     <item 
         component="ComponentInfo{com.improvement_roll/com.improvement_roll.MainActivity}" 
-        drawable="improvementroll"/>
+        drawable="acryl_improvementroll"/>
 
     <!-- InnerTune -->
     <item 
         component="ComponentInfo{com.zionhuang.music/com.zionhuang.music.ui.activities.MainActivity}"
-         drawable="innertune"/>
+         drawable="acryl_innertune"/>
 
     <!-- jtx Board -->
     <item 
         component="ComponentInfo{at.techbee.jtx/at.techbee.jtx.MainActivity2}" 
-        drawable="jtxboard"/>
+        drawable="acryl_jtx"/>
 
     <!-- JustNotes -->
     <item 
         component="ComponentInfo{com.jjewuz.justnotes/com.jjewuz.justnotes.MainActivity}" 
-        drawable="justnotes"/>
+        drawable="acryl_justnotes"/>
 
     <!-- JustWeather -->
     <item 
         component="ComponentInfo{com.jjewuz.justweather/com.jjewuz.justweather.MainActivity}" 
-        drawable="justweather"/>
+        drawable="acryl_justweather"/>
 
     <!-- kboard Settings -->
     <item 
         component="ComponentInfo{com.adgad.kboard/com.adgad.kboard.PrefsActivity}" 
-        drawable="kboardsettings"/>
+        drawable="acryl_kboard"/>
 
     <!-- KernelSU -->
     <item 
         component="ComponentInfo{me.weishu.kernelsu/me.weishu.kernelsu.ui.MainActivity}" 
-        drawable="kernelsu"/>
+        drawable="acryl_kernelsu"/>
 
     <!-- Khanos -->
     <item 
         component="ComponentInfo{com.gojaponte.khanos/com.gojaponte.khanos.MainActivity}" 
-        drawable="khanos"/>
+        drawable="acryl_khanos"/>
 
     <!-- mail -->
     <item 
         component="ComponentInfo{de.monocles.mail/com.fsck.k9.activity.MessageList}" 
-        drawable="mail"/>
+        drawable="acryl_monoclesmail"/>
 
     <!-- Mattermost Beta -->
     <item 
         component="ComponentInfo{com.mattermost.rnbeta/com.mattermost.rnbeta.MainActivity}" 
-        drawable="mattermostbeta"/>
+        drawable="acryl_mattermost beta"/>
 
     <!-- Menza -->
     <item 
         component="ComponentInfo{cz.lastaapps.menza/cz.lastaapps.menza.MainActivity}" 
-        drawable="menza"/>
+        drawable="acryl_ctumenza"/>
 
     <!-- Meshtastic -->
     <item 
         component="ComponentInfo{com.geeksville.mesh/com.geeksville.mesh.MainActivity}" 
-        drawable="meshtastic"/>
+        drawable="acryl_meshtastic"/>
 
     <!-- mpv -->
     <item 
         component="ComponentInfo{is.xyz.mpv/is.xyz.mpv.MainActivity}" 
-        drawable="mpv"/>
+        drawable="acryl_mpvandroid"/>
 
     <!-- mucke -->
     <item 
         component="ComponentInfo{rocks.mucke/com.ryanheise.audioservice.AudioServiceActivity}" 
-        drawable="mucke"/>
+        drawable="acryl_mucke"/>
 
     <!-- Nachrichten Nextcloud News-->
     <item 
         component="ComponentInfo{co.appreactor.news/navigation.Activity}" 
-        drawable="nachrichten"/>
+        drawable="acryl_news"/>
 
     <!-- neutriNote CE -->
     <item 
         component="ComponentInfo{com.appmindlab.nano/com.appmindlab.nano.IntroActivity}" 
-        drawable="neutrinotece"/>
+        drawable="acryl_neutriNote ce"/>
 
     <!-- Next Player -->
     <item 
         component="ComponentInfo{dev.anilbeesetti.nextplayer/dev.anilbeesetti.nextplayer.MainActivity}" 
-        drawable="nextplayer"/>
+        drawable="acryl_nextplayer"/>
 
     <!-- NoFasel -->
     <item 
         component="ComponentInfo{com.n00nedev.nofasel/com.n00nedev.nofasel.MainActivity}" 
-        drawable="nofasel"/>
+        drawable="acryl_nofasel"/>
 
     <!-- Olauncher -->
     <item 
         component="ComponentInfo{app.olauncher/app.olauncher.MainActivity}" 
-        drawable="olauncher"/>
+        drawable="acryl_olauncher"/>
 
     <!-- Olauncher Clutter Free -->
     <item 
         component="ComponentInfo{app.olaunchercf/app.olaunchercf.MainActivity}" 
-        drawable="olauncherclutterfree"/>
+        drawable="acryl_olaunchercf"/>
 
     <!-- OpenStop -->
     <item 
         component="ComponentInfo{de.tu_chemnitz.etit.sse.openstop/de.tu_chemnitz.etit.sse.openstop.MainActivity}" 
-        drawable="openstop"/>
+        drawable="acryl_openstop"/>
 
     <!-- OpenVK -->
     <item 
         component="ComponentInfo{uk.openvk.android.legacy/uk.openvk.android.legacy.ui.core.activities.MainActivity}" 
-        drawable="openvk"/>
+        drawable="acryl_openvklegacy"/>
 
     <!-- OSS Wetter -->
     <item 
         component="ComponentInfo{com.akylas.weather/com.tns.NativeScriptActivity}" 
-        drawable="osswetter"/>
+        drawable="acryl_ossweather"/>
 
     <!-- ParkenUlm -->
     <item 
         component="ComponentInfo{development.parkenulm/development.parkenulm.MainActivity}" 
-        drawable="parkenulm"/>
+        drawable="acryl_parkenulm"/>
 
     <!-- Phase 10 Counter -->
     <item 
         component="ComponentInfo{com.tjEnterprises.phase10Counter/com.tjEnterprises.phase10Counter.MainActivity}" 
-        drawable="phase10counter"/>
+        drawable="acryl_phase10counter"/>
 
     <!-- PipePipe -->
     <item 
         component="ComponentInfo{InfinityLoop1309.NewPipeEnhanced/org.schabi.newpipe.MainActivity}" 
-        drawable="pipepipe"/>
+        drawable="acryl_pipepipe"/>
 
     <!-- PlainApp -->
     <item 
         component="ComponentInfo{com.ismartcoding.plain/com.ismartcoding.plain.ui.MainActivity}" 
-        drawable="plainapp"/>
+        drawable="acryl_plainapp"/>
     
     <!-- Quote Unquote -->
     <item 
         component="ComponentInfo{com.github.jameshnsears.quoteunquote/com.github.jameshnsears.quoteunquote.QuoteUnquoteInstructions}" 
-        drawable="quoteunquote"/>
+        drawable="acryl_quoteunquote"/>
 
     <!-- Rechner -->
     <item 
         component="ComponentInfo{com.darkempire78.opencalculator/com.darkempire78.opencalculator.MainActivity}" 
-        drawable="rechner"/>
+        drawable="acryl_opencalc"/>
 
     <!-- RHVoice -->
     <item 
         component="ComponentInfo{com.github.olga_yakovleva.rhvoice.android/com.github.olga_yakovleva.rhvoice.android.MainActivity}" 
-        drawable="rhvoice"/>
+        drawable="acryl_rhvoice"/>
 
     <!-- RootlessJamesDSP -->
     <item 
         component="ComponentInfo{me.timschneeberger.rootlessjamesdsp/me.timschneeberger.rootlessjamesdsp.activity.MainActivity}" 
-        drawable="rootlessjamesdsp"/>
+        drawable="acryl_rootlessjamesdsp"/>
 
     <!-- Saber -->
     <item 
         component="ComponentInfo{com.adilhanney.saber/com.adilhanney.saber.MainActivity}" 
-        drawable="saber"/>
+        drawable="acryl_saber"/>
 
     <!-- Scheduler -->
     <item 
         component="ComponentInfo{prototype.xd.scheduler/prototype.xd.scheduler.MainActivity}" 
-        drawable="scheduler"/>
+        drawable="acryl_scheduler"/>
 
     <!-- Scoreboard -->
     <item 
         component="ComponentInfo{com.github.vatbub.scoreboard/com.github.vatbub.scoreboard.view.MainActivity}" 
-        drawable="scoreboard"/>
+        drawable="acryl_scoreboard"/>
 
     <!-- Screen Time -->
     <item 
         component="ComponentInfo{de.markusfisch.android.screentime/de.markusfisch.android.screentime.activity.MainActivity}" 
-        drawable="screentime"/>
+        drawable="acryl_screentime"/>
 
     <!-- Sensor Server -->
     <item 
         component="ComponentInfo{github.umer0586/github.umer0586.sensorserver.activities.FragmentNavigationActivity}" 
-        drawable="sensorserver"/>
+        drawable="acryl_sensorserver"/>
 
     <!-- SimpleX -->
     <item 
         component="ComponentInfo{chat.simplex.app/chat.simplex.app.MainActivity_default}" 
-        drawable="simplex"/>
+        drawable="acryl_simplexchat"/>
 
     <!-- SongTube -->
     <item 
         component="ComponentInfo{com.artxdev.songtube/com.ryanheise.audioservice.AudioServiceActivity}" 
-        drawable="songtube"/>
+        drawable="acryl_songtube"/>
 
     <!-- Tabellen Nextcloud Tables-->
     <item 
         component="ComponentInfo{it.niedermann.nextcloud.tables/it.niedermann.nextcloud.tables.ui.main.MainActivity}" 
-        drawable="tabellen"/>
+        drawable="acryl_nextcloudtables"/>
 
     <!-- Task Manager -->
     <item 
         component="ComponentInfo{com.nima.taskmanager/com.nima.taskmanager.MainActivity}" 
-        drawable="taskmanager"/>
+        drawable="acryl_taskmanager"/>
 
     <!-- Tempus Romanum -->
     <item 
         component="ComponentInfo{com.dev.xavier.tempusromanum/com.dev.xavier.tempusromanum.MainActivity}" 
-        drawable="tempusromanum"/>
+        drawable="acryl_tempusromanum"/>
 
     <!-- Termux:GUI -->
     <item 
         component="ComponentInfo{com.termux.gui/com.termux.gui.GUIConfigActivity}" 
-        drawable="termuxgui"/>
+        drawable="acryl_termuxgui"/>
 
     <!-- translator -->
     <item 
         component="ComponentInfo{de.monocles.translator/de.monocles.translator.ui.MainActivity}" 
-        drawable="translator"/>
+        drawable="acryl_monoclestranslator"/>
 
     <!-- tSotaLog -->
     <item 
         component="ComponentInfo{ch.hb9hnt.tsotalog/ch.hb9hnt.tsotalog.MainActivity}" 
-        drawable="tsotalog"/>
+        drawable="acryl_tsotalog"/>
 
     <!-- Tuner -->
     <item 
         component="ComponentInfo{de.moekadu.tuner/de.moekadu.tuner.MainActivity}" 
-        drawable="tuner"/>
+        drawable="acryl_tuner"/>
 
     <!-- Twire -->
     <item 
         component="ComponentInfo{com.perflyst.twire/com.perflyst.twire.activities.StartUpActivity}" 
-        drawable="twire"/>
+        drawable="acryl_twire"/>
 
     <!-- Ultrasonic -->
     <item 
         component="ComponentInfo{org.moire.ultrasonic/org.moire.ultrasonic.activity.NavigationActivity}" 
-        drawable="ultrasonic"/>
+        drawable="acryl_ultrasonic"/>
 
     <!-- URLCheck -->
     <item 
         component="ComponentInfo{com.trianguloy.urlchecker/com.trianguloy.urlchecker.activities.MainActivity}" 
-        drawable="urlcheck"/>
+        drawable="acryl_urlcheck"/>
 
     <!-- V2compose -->
     <item 
         component="ComponentInfo{io.github.v2compose/io.github.v2compose.MainActivity}" 
-        drawable="v2compose"/>
+        drawable="acryl_v2compose"/>
 
     <!-- Virtual Hosts -->
     <item 
         component="ComponentInfo{com.github.xfalcon.vhosts/com.github.xfalcon.vhosts.VhostsActivity}" 
-        drawable="virtualhosts"/>
+        drawable="acryl_virtualhost"/>
 
     <!-- Voice -->
     <item 
         component="ComponentInfo{de.ph1b.audiobook/voice.app.features.MainActivity}" 
-        drawable="voice"/>
+        drawable="acryl_voiceaudiobookplayer"/>
     
     <!-- Wake on Lan -->
     <item 
         component="ComponentInfo{de.florianisme.wakeonlan/de.florianisme.wakeonlan.ui.MainActivity}" 
-        drawable="wakeonlan"/>
+        drawable="acryl_wakeonlan"/>
 
     <!-- Water Me -->
     <item 
         component="ComponentInfo{ch.abertschi.waterme.water_me/ch.abertschi.waterme.water_me.MainActivity}" 
-        drawable="waterme"/>
+        drawable="acryl_waterme"/>
 
     <!-- Wikipedia -->
     <item 
         component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" 
-        drawable="wikipedia"/>
+        drawable="acryl_wikipedia"/>
     
     <!-- Yivi -->
     <item 
         component="ComponentInfo{org.irmacard.cardemu/foundation.privacybydesign.irmamobile.MainActivity}" 
-        drawable="yivi"/>
+        drawable="acryl_yivi"/>
 
 
 </resources>

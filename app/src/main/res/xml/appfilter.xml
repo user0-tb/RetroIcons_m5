@@ -1804,7 +1804,7 @@
     <!-- Mattermost Beta -->
     <item 
         component="ComponentInfo{com.mattermost.rnbeta/com.mattermost.rnbeta.MainActivity}" 
-        drawable="acryl_mattermost beta"/>
+        drawable="acryl_mattermostbeta"/>
 
     <!-- Menza -->
     <item 

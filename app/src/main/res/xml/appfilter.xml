@@ -1834,7 +1834,7 @@
     <!-- neutriNote CE -->
     <item 
         component="ComponentInfo{com.appmindlab.nano/com.appmindlab.nano.IntroActivity}" 
-        drawable="acryl_neutriNote ce"/>
+        drawable="acryl_neutrinotece"/>
 
     <!-- Next Player -->
     <item 

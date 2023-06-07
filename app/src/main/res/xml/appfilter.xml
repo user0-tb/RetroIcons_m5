@@ -2032,4 +2032,16 @@
         drawable="acryl_yivi"/>
 
 
+    <!-- Miniflutt -->
+    <item 
+        component="ComponentInfo{be.martinelli.miniflutt/io.flutter.embedding.android.FlutterActivity}" 
+        drawable="acryl_miniflutt"/>
+
+    <!-- RxDroid -->
+    <item 
+        component="ComponentInfo{at.jclehner.rxdroid/at.jclehner.rxdroid.DrugListActivity2}" 
+        drawable="acryl_rxdroid"/>
+
+
+
 </resources>

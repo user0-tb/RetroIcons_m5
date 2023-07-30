@@ -1,6 +1,6 @@
 ## Version 15, not online
 
-packagename changed: innertune, partygames, piwigo, redreader, unstoppable, wifi analyzer, wifi info
+packagename changed: innertune, partygames, piwigo, redreader, trail sense, unstoppable, wifi analyzer, wifi info
 
 deleted: koyu. space
 

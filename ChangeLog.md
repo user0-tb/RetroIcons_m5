@@ -1,3 +1,23 @@
+## Version 15, not online
+
+packagename changed: innertune, partygames, piwigo, redreader, unstoppable, wifi analyzer, wifi info
+
+deleted: koyu. space
+
+new: exodus, fdroid basic, skytube legacy
+
+## Version 14
+
+with: Woodpecker CI
+new: Activity Manager, AgoraDesk, Always On Clock, Arity, AutoNotify, Auxio, blood pressure app, BOOM Switch, Cofi, 
+CommandClick, Daten-Monitor, DAVx⁵, Doable, Dooz, Drinkable, Drum On!, EBT Compass, Energize, ente, Fake Traveler, 
+FastLyrics, Fertility Test Analyzer, Focus Launcher, FTPClient, Godot Editor 3 + 4, gptAssist, Habo, Hacki, HalfDot, 
+Improvement Roll, InnerTune, jtx Board, JustNotes, JustWeather, kboard Settings, KernelSU, Khanos, mail, Mattermost Beta, Menza, Meshtastic, Miniflutt, mpv, mucke, Nextcloud News, neutriNote CE, Next Player, NoFasel, Olauncher, Olauncher Clutter Free, OpenStop, OpenVK, OSS Wetter, ParkenUlm, Phase 10 Counter, PipePipe, PlainApp, Quote Unquote, RxDroid, Screen Time, Sensor Server, SimpleX, SongTube, Nextcloud Tables, Task Managerm, Tempus Romanum, Termux:GUI, translator, tSotaLog, Tuner, Twire, Ultrasonic, URLCheck, V2compose, Virtual Hosts,<>Voice, Wake on Lan, Water Me, Wikipedia and Yivi
+
+changed: activity name of Opentracks, Nextcloud Bookmarks
+
+deleted: Full Colemak, riot
+
 ## Version 13
 
 fixes: Ruslin -> ruslin

@@ -22,6 +22,11 @@
         component="ComponentInfo{com.lun.chin.aicamera/com.lun.chin.aicamera.CameraActivity}" 
         drawable="acryl_aicamera"/>
 
+    <!-- Ameixa -->
+    <item 
+        component="ComponentInfo{org.xphnx.ameixa/org.xphnx.ameixa.activities.MainActivity}" 
+        drawable="acryl_ameixa"/>
+
     <!-- Android-Version -->
     <item 
         component="ComponentInfo{com.github.mueller_ma.viewandroidversion/com.github.mueller_ma.viewandroidversion.MainActivity}" 

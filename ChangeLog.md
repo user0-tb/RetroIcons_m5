@@ -4,7 +4,7 @@ packagename changed: innertune, partygames, piwigo, redreader, unstoppable, wifi
 
 deleted: koyu. space
 
-new: exodus, fdroid basic, skytube legacy
+new: ameixa, exodus, fdroid basic, skytube legacy
 
 ## Version 14
 

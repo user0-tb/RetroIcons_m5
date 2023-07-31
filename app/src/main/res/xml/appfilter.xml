@@ -2,6 +2,19 @@
 <resources>
     <version>1</version>
 
+    <!-- Deck -->
+<item component="ComponentInfo{it.niedermann.nextcloud.deck/it.niedermann.nextcloud.deck.ui.main.MainActivity}" drawable="deck"/>
+<!-- Element -->
+<item component="ComponentInfo{im.vector.app/im.vector.application.features.Alias}" drawable="element"/>
+<!-- Flashy -->
+<item component="ComponentInfo{rocks.poopjournal.flashy/rocks.poopjournal.flashy.activities.MainActivity}" drawable="flashy"/>
+<!-- News -->
+<item component="ComponentInfo{de.luhmer.owncloudnewsreader/de.luhmer.owncloudnewsreader.NewsReaderListActivity}" drawable="news"/>
+<!-- PCAPdroid -->
+<item component="ComponentInfo{com.emanuelef.remote_capture/com.emanuelef.remote_capture.activities.MainActivity}" drawable="pcapdroid"/>
+<!-- Trail Sense -->
+<item component="ComponentInfo{com.kylecorry.trail_sense/com.kylecorry.trail_sense.main.MainActivity}" drawable="trailsense"/>
+    
     <!-- 1List -->
     <item 
         component="ComponentInfo{com.lolo.io.onelist/com.lolo.io.onelist.MainActivity}" 

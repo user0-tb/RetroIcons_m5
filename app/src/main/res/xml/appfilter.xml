@@ -624,7 +624,7 @@
 
     <!-- PCAPdroid -->
     <item 
-        component="ComponentInfo{com.emanuelef.remote_capture/com.emanuelef.remote_capture.MainActivity}" 
+        component="ComponentInfo{com.emanuelef.remote_capture/com.emanuelef.remote_capture.activities.MainActivity}" 
         drawable="acryl_pcapdroid"/>
 
     <!-- Piwigo -->

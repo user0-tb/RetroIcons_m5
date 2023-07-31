@@ -1290,7 +1290,7 @@
 
     <!-- Trail Sense -->
     <item 
-        component="ComponentInfo{com.kylecorry.trail_sense/com.kylecorry.trail_sense.MainActivity}" 
+        component="ComponentInfo{com.kylecorry.trail_sense/com.kylecorry.trail_sense.main.MainActivity}" 
         drawable="acryl_trailsense"/>
 
     <!-- Transistor -->

@@ -372,11 +372,6 @@
         component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.sections.remote.RemoteActivity}" 
         drawable="acryl_kore"/>
     
-    <!-- koyu.space -->
-    <item 
-        component="ComponentInfo{com.Sommerlichter.social/com.Sommerlichter.social.MainActivity}" 
-        drawable="acryl_koyuspace"/>
-    
     <!-- KrautSchlüssel -->
     <item 
         component="ComponentInfo{space.kraut.schluessel/space.kraut.schluessel.ui.MainActivity}" 

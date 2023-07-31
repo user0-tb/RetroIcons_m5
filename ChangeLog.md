@@ -1,6 +1,6 @@
 ## Version 15, not online
 
-packagename changed: element, flashy, innertune, partygames, pcapdroid piwigo, redreader, trail sense, unstoppable, wifi analyzer, wifi info
+packagename changed: element, flashy, innertune, news, partygames, pcapdroid piwigo, redreader, trail sense, unstoppable, wifi analyzer, wifi info
 
 deleted: koyu. space
 

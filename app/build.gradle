@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "de.moooon.acrylicons"
+        applicationId "com.user0tb.RetroIcons.m5"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 14
@@ -28,7 +28,7 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
-    namespace 'de.moooon.acrylicons'
+    namespace 'com.user0tb.RetroIcons.m5'
 }
 
 dependencies {

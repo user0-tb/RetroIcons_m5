@@ -4,17 +4,17 @@
  <!-- Android-Version -->
     <item 
         component="ComponentInfo{com.github.mueller_ma.viewandroidversion/com.github.mueller_ma.viewandroidversion.MainActivity}" 
-        drawable="retro_Android"/>
+        drawable="retro_android"/>
  <!-- Google Contacts -->
     <item 
         component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" 
-        drawable="retro_Contacts"/>
+        drawable="retro_contacts"/>
  <!-- Google Chrome -->
     <item 
         component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" 
-        drawable="retro_Browser"/>
+        drawable="retro_browser"/>
  <!-- Google Chrome -->
     <item 
         component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions}" 
-        drawable="retro_Browser"/>
+        drawable="retro_phone"/>
 </resources>

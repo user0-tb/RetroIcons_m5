@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         drawables.sortBy { it.name }
 
         for (drawable in drawables) {
-            if (drawable.name.startsWith("acryl_")) {
+            if (drawable.name.startsWith("retro_")) {
                 val imageView = ImageView(this)
                 imageView.setImageResource(drawable.getInt(null))
 
